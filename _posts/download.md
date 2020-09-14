@@ -1,6 +1,6 @@
 ---
-Layout: page
-Title: Download
+layout: page
+title: Download
 ---
 
 
