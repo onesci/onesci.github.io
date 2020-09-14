@@ -10,17 +10,18 @@ relative_permalinks: true
 title:            One Weekly
 tagline:          'A Jekyll theme'
 description:      'Weekly updates on assignments, reading, and notes as well as links to all textbooks used in Science One'
-url:              http://hyde.getpoole.com
+url:              http://onesci.github.io
 baseurl:          /
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
 
-paginate:         5
+# author:
+#  name:           
+#  url:            
+
+# paginate:         5
 
 # Custom vars
-version:          2.1.0
+# version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+# github:
+#  repo:           
