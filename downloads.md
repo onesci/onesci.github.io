@@ -3,7 +3,6 @@ layout: page
 title: Downloads
 ---
 
-{% include downloads.html %}
 
 ## This is a test
 
