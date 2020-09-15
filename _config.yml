@@ -9,8 +9,8 @@ permalink:        pretty
 title:            One Weekly
 # tagline:          'A Jekyll theme'
 description:      'Weekly updates on assignments, reading, and notes as well as links to all textbooks used in Science One'
-url:              http://onesci.github.io
-baseurl:          /
+url:              "https://onesci.github.io"
+baseurl:          ""
 
 
 # author:
