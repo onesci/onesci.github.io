@@ -4,6 +4,10 @@ title:  "Week Two"
 date:   2020-09-14 19:37:27 -0700
 categories: weekly reading
 ---
+## Schedule
+
+![](/_assets/w2schedule.jpg)
+
 ## Reading
 
 - Chemistry - Textbook sections 1.1 - 1.4
