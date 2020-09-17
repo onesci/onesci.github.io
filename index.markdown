@@ -1,6 +1,6 @@
 ---
-title: Welcome to One Weekly!
 layout: home
 ---
 
 
+title: Welcome to One Weekly
