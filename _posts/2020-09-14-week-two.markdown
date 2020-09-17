@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Week Two"
+date:   2020-09-14 19:37:27 -0700
+categories: weekly reading
+---
+## Reading
+
+- Chemistry - Textbook sections 1.1 - 1.4
+	- [PhET - Atomic Interactions](https://phet.colorado.edu/en/simulation/atomic-interactions)
+	- [Tuesday Slides](https://canvas.ubc.ca/courses/62920/files/9619744/download?wrap=1)
+- Mathematics - Textbook sections 1.1 - 1.4
+	- [Monday Slides](https://canvas.ubc.ca/courses/62921/files/9597518/download?wrap=1)
+	- [Wednesday Slides](https://canvas.ubc.ca/courses/62921/files/9634262/download?wrap=1)
+- Physics - Knight sections 1.1 - 1.6 or LibreText 2.1, 2.2, 3.1, Avg Acceleration in 3.3
+	- Jupyter Notebook Installation Instructions
+	- L0 - [Getting Started With Python](https://canvas.ubc.ca/courses/62922/files/9549837/download)
+	- L1 - [Dropping Things](https://canvas.ubc.ca/courses/62922/files/9603717/download) and [python file](https://canvas.ubc.ca/courses/62922/files/9573700/download?wrap=1)
+	- Phys 119 - Read Course Intro and sign up for LabArchives Notebook
+	- [Programming Lesson 1 Slides](https://canvas.ubc.ca/courses/62922/files/9603717/download) and [Download](https://canvas.ubc.ca/courses/62922/files/9615729/download?wrap=1)
+	- Wednesday - [Velocity and Acceleration Slides](https://canvas.ubc.ca/courses/62922/files/9640621/download)
+- Biology 
+	- [Biology as a Science Slides](https://canvas.ubc.ca/courses/62806/files/9211258/download?wrap=1)
+	- [GBRF Handout](https://canvas.ubc.ca/courses/62806/files/9176463/download?wrap=1) - Start preparing for Quiz 2
+	- [Causation vs. Correlation FAQs](https://canvas.ubc.ca/courses/62806/files/9211258/download?wrap=1) 
+
+## Homework
+- Monday
+	- Math - WebWork practice problems (not for marks) and homework assignment 
+- Tuesday
+	- Good job on the quiz everyone, now time to practice [active learning](https://canvas.ubc.ca/courses/62806/files/9211258/download?wrap=1) for those gainz!
+	- Computer Science [Variables Worksheet](https://canvas.ubc.ca/courses/62922/files/9615729/download?wrap=1)
+	- Chris wants you to look at the [Chemistry Canvas](https://canvas.ubc.ca/courses/62920) and also this question: “We didn't include the electrostatic interaction energy between the hydrogen cation and anion.  How can you use coulomb's law to calculate this value?  What information do you need to do that calculation?  Can you find the info and do the calculation?  Would including this term change your answer to Q5?  Explain.”
+	- Grab [Marine Life Tutorial](https://canvas.ubc.ca/courses/62806/files/9594370/download?wrap=1) for Biology tutorial
+	- [Introduction to Metabolism](https://canvas.ubc.ca/courses/62806/pages/introduction-to-metabolism?module_item_id=2377104) - [Video](https://a11224-8407206.cluster222.canvas-user-content.com/courses/11224~62806/files/11224~8407206/course%20files/Overview%20of%20metabolism/Overview%20of%20metabolism%20%28Published%29/index.html?download=1&inline=1&sf_verifier=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJ1c2VyX2lkIjoiMTEyMjQwMDAwMDAwMzkxMzA3Iiwicm9vdF9hY2NvdW50X2lkIjoiMTEyMjQwMDAwMDAwMDAwMDAxIiwib2F1dGhfaG9zdCI6ImNhbnZhcy51YmMuY2EiLCJyZXR1cm5fdXJsIjpudWxsLCJmYWxsYmFja191cmwiOiJodHRwczovL2NhbnZhcy51YmMuY2EvY291cnNlcy82MjgwNi9maWxlcy84NDA3MjA2L2Rvd25sb2FkP2ZhbGxiYWNrX3RzPTE2MDAyMDYxMTkiLCJleHAiOjE2MDAyMDY0MTl9.1-usHJaxKBOgKeZQPjEONqvFbRMsVPb-gcTpwqdv2GjZab2K3RVWa9WdDnt4RGJDQnVU_xvsJN0McD9L7i_Qdw), [Reading](https://www.khanacademy.org/science/high-school-biology/hs-energy-and-transport/hs-introduction-to-metabolism/a/overview-of-metabolism)
+		- Raja: Get used to Jim’s unique lecture style and actively respond to his questions as they will come up in class and quizzes
+- Wednesday
+	- Physics motion problems 1.1 on webwork 
