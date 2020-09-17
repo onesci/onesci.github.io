@@ -6,7 +6,7 @@ categories: weekly reading
 ---
 ## Schedule
 
-![](/_assets/w2schedule.jpg)
+![Week Two Schedule](/_assets/w2schedule.jpeg)
 
 ## Reading
 
