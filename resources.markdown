@@ -4,6 +4,8 @@ title: Resources
 permalink: /resources/
 ---
 
+# [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
+
 # Chemistry
 - [Canvas](https://canvas.ubc.ca/courses/62920)
 - [General Chemistry Textbook](https://chem.libretexts.org/Bookshelves/)
@@ -20,6 +22,3 @@ permalink: /resources/
 
 # Biology
 - [Canvas](https://canvas.ubc.ca/courses/62806)
-
-
-# [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
