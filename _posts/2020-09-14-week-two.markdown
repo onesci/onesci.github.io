@@ -18,6 +18,7 @@ Second Biology quiz next Tuesday
 - Chemistry - Textbook sections 1.1 - 1.4
 	- [PhET - Atomic Interactions](https://phet.colorado.edu/en/simulation/atomic-interactions)
 	- [Tuesday Slides](https://canvas.ubc.ca/courses/62920/files/9619744/download?wrap=1)
+	- [Thursday Slides](https://canvas.ubc.ca/courses/62920/files/9653726/download?wrap=1)
 - Mathematics - Textbook sections 1.1 - 1.4
 	- [Monday Slides](https://canvas.ubc.ca/courses/62921/files/9597518/download?wrap=1)
 	- [Wednesday Slides](https://canvas.ubc.ca/courses/62921/files/9634262/download?wrap=1)
@@ -32,6 +33,8 @@ Second Biology quiz next Tuesday
 	- [Biology as a Science Slides](https://canvas.ubc.ca/courses/62806/files/9211258/download?wrap=1)
 	- [GBRF Handout](https://canvas.ubc.ca/courses/62806/files/9176463/download?wrap=1) - Start preparing for Quiz 2
 	- [Causation vs. Correlation FAQs](https://canvas.ubc.ca/courses/62806/files/9211258/download?wrap=1) 
+- Scientific Thinking and Literacy
+	- [Term One Project Handbook](https://canvas.ubc.ca/courses/62807/files/9663802/download?download_frd=1)
 
 ## Homework
 - Monday
@@ -46,4 +49,6 @@ Second Biology quiz next Tuesday
 - Wednesday
 	- Physics motion problems 1.1 on webwork 
 	- BIOL 140 Prelab - not linked as not everyone is in the same canvas group. complete in assigned groups before next lab
+- Thursday
+	- Chemistry bonding [worksheet 1](https://canvas.ubc.ca/courses/62920/files/9654436/download?wrap=1)
 	- Biology [Quiz 1 Wrapper](https://canvas.ubc.ca/courses/62806/assignments/682446)
