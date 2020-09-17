@@ -47,3 +47,5 @@ Second Biology quiz next Tuesday
 - Wednesday
 	- Physics motion problems 1.1 on webwork 
 	- BIOL 140 Prelab - not linked as not everyone is in the same canvas group. complete in assigned groups before next lab
+- Thursday
+	- Chemistry bonding [worksheet 1](https://canvas.ubc.ca/courses/62920/files/9654436/download?wrap=1)
