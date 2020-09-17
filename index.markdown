@@ -4,7 +4,3 @@
 
 layout: home
 ---
-
-# Welcome to One Weekly
-
-## Use this resource to find any and all things Science One
