@@ -5,6 +5,7 @@ title: Resources
 ---
 
 # [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
+# [Piazza](https://canvas.ubc.ca/courses/62807/external_tools/201?display=borderless)
 
 
 # Chemistry
@@ -17,6 +18,8 @@ title: Resources
 - [Canvas](https://canvas.ubc.ca/courses/62921)
 - [CLP-1 Textbooks](http://www.math.ubc.ca/~CLP/)
 - [Email Costanza Piccolo](mailto:costanza@math.ubc.ca) - costanza@math.ubc.ca
+- [Email Stephen Gustafson](mailto:gustaf@math.ubc.ca) - gustaf@math.ubc.ca
+- [Email Colin Macdonald](mailto:cbm@math.ubc.ca) - cbm@math.ubc.ca
 
 # Physics
 - [Canvas](https://canvas.ubc.ca/courses/62922)
