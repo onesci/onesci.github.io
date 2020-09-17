@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-permalink: /resources/
+<!-- permalink: /resources/ -->
 ---
 
 # [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)

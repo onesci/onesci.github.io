@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Week Two"
 date:   2020-09-14 19:37:27 -0700
 categories: weekly reading
