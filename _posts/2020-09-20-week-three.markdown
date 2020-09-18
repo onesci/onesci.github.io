@@ -15,14 +15,14 @@ Second Biology quiz Tuesday
 
 ## Reading
 
-- Chemistry - Textbook sections 1.1 - 1.4
+- Chemistry - Textbook sections [10.4 - 10.6](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_%28Petrucci_et_al.%29/10%3A_Chemical_Bonding_I%3A_Basic_Concepts)
 
-- Mathematics - Textbook sections 1.1 - 1.4
+- Mathematics - Textbook section 1.6
 
-- Physics - Knight sections 1.1 - 1.6 or LibreText 2.1, 2.2, 3.1, Avg Acceleration in 3.3
+- Physics - [Prognostication notes](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 
 - Biology 
-	- [GBRF Handout](https://canvas.ubc.ca/courses/62806/files/9176463/download?wrap=1) - Prepare for Quiz 2
+	- At home portion of [GBRF Handout](https://canvas.ubc.ca/courses/62806/files/9176463/download?wrap=1) - Prepare for Quiz 2
 - Scientific Thinking and Literacy
 	- [Term One Project Handbook](https://canvas.ubc.ca/courses/62807/files/9663802/download?download_frd=1)
 
