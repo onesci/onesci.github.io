@@ -19,7 +19,7 @@ Second Biology quiz Tuesday
 
 - Mathematics - Textbook section 1.6
 
-- Physics - [Prognostication notes](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
+- Physics - [Prognostication notes](https://canvas.ubc.ca/courses/62922/files/9590019/download?wrap=1)
 
 - Biology 
 	- At home portion of [GBRF Handout](https://canvas.ubc.ca/courses/62806/files/9176463/download?wrap=1) - Prepare for Quiz 2
