@@ -16,6 +16,7 @@ categories: weekly reading
 
 First Math quiz Monday - Limits  
 Second Biology quiz Tuesday
+First Physics quiz Thursday - Arduino and Python progress (Participation Marks)
 
 ## Reading
 
