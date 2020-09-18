@@ -4,6 +4,10 @@ title:  "Week Three"
 date:   2020-09-20 19:37:27 -0700
 categories: weekly reading
 ---
+
+## Homework
+- BIOL 140 - Comment on videos in [CLAS](https://clas2.arts.ubc.ca/science)
+
 ## Schedule
 
 ![Week Three Schedule](/assets/w3schedule.png)
@@ -23,8 +27,9 @@ Second Biology quiz Tuesday
 
 - Biology 
 	- At home portion of [GBRF Handout](https://canvas.ubc.ca/courses/62806/files/9176463/download?wrap=1) - Prepare for Quiz 2
+	- BIOL 140 Reading - on your individual Canvas page
 - Scientific Thinking and Literacy
 	- [Term One Project Handbook](https://canvas.ubc.ca/courses/62807/files/9663802/download?download_frd=1)
 
-## Homework
+
 
