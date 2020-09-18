@@ -5,7 +5,7 @@ date:   2020-09-20 19:37:27 -0700
 categories: weekly reading
 ---
 
-## Homework - Scroll Down for Feading
+## Homework - Scroll Down for Reading
 - BIOL 140 - Comment on videos in [CLAS](https://clas2.arts.ubc.ca/science)
 
 ## Schedule
