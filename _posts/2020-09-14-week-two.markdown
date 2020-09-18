@@ -52,3 +52,5 @@ Second Biology quiz next Tuesday
 - Thursday
 	- Chemistry bonding [worksheet 1](https://canvas.ubc.ca/courses/62920/files/9654436/download?wrap=1)
 	- Biology [Quiz 1 Wrapper](https://canvas.ubc.ca/courses/62806/assignments/682446)
+- Friday
+	- Arduino Tutorial [Slides](https://canvas.ubc.ca/courses/62922/files/9631639/download) and [python files](https://canvas.ubc.ca/courses/62922/pages/module-1-tutorial-worksheets-and-solutions?module_item_id=2077995)
