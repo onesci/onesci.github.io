@@ -15,7 +15,7 @@ categories: weekly reading
 ## Upcoming Quizzes
 
 First Math quiz Monday - Limits  
-Second Biology quiz Tuesday
+Second Biology quiz Tuesday  
 First Physics quiz Thursday - Arduino and Python progress (Participation Marks)
 
 ## Reading
