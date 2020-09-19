@@ -1,6 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-16T23:20:42-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">One Weekly</title><subtitle>Weekly updates on assignments, reading, and notes as well as links to all textbooks used in Science One</subtitle><entry><title type="html">Week Two</title><link href="http://localhost:4000/weekly/reading/2020/09/14/week-two.html" rel="alternate" type="text/html" title="Week Two" /><published>2020-09-14T19:37:27-07:00</published><updated>2020-09-14T19:37:27-07:00</updated><id>http://localhost:4000/weekly/reading/2020/09/14/week-two</id><content type="html" xml:base="http://localhost:4000/weekly/reading/2020/09/14/week-two.html">&lt;h2 id=&quot;schedule&quot;&gt;Schedule&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-19T14:48:54-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">One Weekly</title><subtitle>Weekly updates on assignments, reading, and notes as well as links to all textbooks used in Science One</subtitle><entry><title type="html">Week Two</title><link href="http://localhost:4000/weekly/reading/2020/09/14/week-two.html" rel="alternate" type="text/html" title="Week Two" /><published>2020-09-14T19:37:27-07:00</published><updated>2020-09-14T19:37:27-07:00</updated><id>http://localhost:4000/weekly/reading/2020/09/14/week-two</id><content type="html" xml:base="http://localhost:4000/weekly/reading/2020/09/14/week-two.html">&lt;h2 id=&quot;schedule&quot;&gt;Schedule&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/w2schedule.jpeg&quot; alt=&quot;Week Two Schedule&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;upcoming-quizzes&quot;&gt;Upcoming Quizzes&lt;/h2&gt;
+
+&lt;p&gt;First Math quiz next Monday - Limits&lt;br /&gt;
+Second Biology quiz next Tuesday&lt;/p&gt;
 
 &lt;h2 id=&quot;reading&quot;&gt;Reading&lt;/h2&gt;
 
@@ -9,6 +14,7 @@
     &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;https://phet.colorado.edu/en/simulation/atomic-interactions&quot;&gt;PhET - Atomic Interactions&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;https://canvas.ubc.ca/courses/62920/files/9619744/download?wrap=1&quot;&gt;Tuesday Slides&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://canvas.ubc.ca/courses/62920/files/9653726/download?wrap=1&quot;&gt;Thursday Slides&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Mathematics - Textbook sections 1.1 - 1.4
@@ -32,6 +38,11 @@
       &lt;li&gt;&lt;a href=&quot;https://canvas.ubc.ca/courses/62806/files/9211258/download?wrap=1&quot;&gt;Biology as a Science Slides&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;https://canvas.ubc.ca/courses/62806/files/9176463/download?wrap=1&quot;&gt;GBRF Handout&lt;/a&gt; - Start preparing for Quiz 2&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;https://canvas.ubc.ca/courses/62806/files/9211258/download?wrap=1&quot;&gt;Causation vs. Correlation FAQs&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Scientific Thinking and Literacy
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://canvas.ubc.ca/courses/62807/files/9663802/download?download_frd=1&quot;&gt;Term One Project Handbook&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -59,6 +70,18 @@
   &lt;li&gt;Wednesday
     &lt;ul&gt;
       &lt;li&gt;Physics motion problems 1.1 on webwork&lt;/li&gt;
+      &lt;li&gt;BIOL 140 Prelab - not linked as not everyone is in the same canvas group. complete in assigned groups before next lab&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Thursday
+    &lt;ul&gt;
+      &lt;li&gt;Chemistry bonding &lt;a href=&quot;https://canvas.ubc.ca/courses/62920/files/9654436/download?wrap=1&quot;&gt;worksheet 1&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Biology &lt;a href=&quot;https://canvas.ubc.ca/courses/62806/assignments/682446&quot;&gt;Quiz 1 Wrapper&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Friday
+    &lt;ul&gt;
+      &lt;li&gt;Arduino Tutorial &lt;a href=&quot;https://canvas.ubc.ca/courses/62922/files/9631639/download&quot;&gt;Slides&lt;/a&gt;,  &lt;a href=&quot;https://canvas.ubc.ca/courses/62922/pages/module-1-tutorial-worksheets-and-solutions?module_item_id=2077995&quot;&gt;Python files&lt;/a&gt; and &lt;a href=&quot;https://www.arduino.cc/en/Main/Software&quot;&gt;Arduino IDE&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><category term="weekly" /><category term="reading" /><summary type="html">Schedule</summary></entry></feed>
