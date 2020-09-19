@@ -16,7 +16,7 @@ categories: weekly reading
 
 First Math quiz Monday - Limits  
 Second Biology quiz Tuesday  
-First Physics quiz Thursday - Arduino and Python progress (Participation Marks)
+First Physics quiz Thursday - Arduino and Python progress (Participation Mark)
 
 ## Reading
 
@@ -31,6 +31,3 @@ First Physics quiz Thursday - Arduino and Python progress (Participation Marks)
 	- BIOL 140 Reading - on your individual Canvas page
 - Scientific Thinking and Literacy
 	- [Term One Project Handbook](https://canvas.ubc.ca/courses/62807/files/9663802/download?download_frd=1)
-
-
-
