@@ -8,6 +8,7 @@ categories: weekly reading
 ## Homework - Scroll Down for Reading
 - BIOL 140 - Comment on videos in [CLAS](https://clas2.arts.ubc.ca/science)
 - Computer Science [Worksheet 1](https://canvas.ubc.ca/courses/62922/assignments/607511?module_item_id=2238689)
+- Everything in Sapling Learning 
 
 ## Schedule
 
