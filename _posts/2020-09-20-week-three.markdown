@@ -25,8 +25,10 @@ First Physics quiz Thursday - Arduino and Python progress (Participation Mark)
 - Chemistry - Textbook sections [10.4 - 10.6](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_%28Petrucci_et_al.%29/10%3A_Chemical_Bonding_I%3A_Basic_Concepts)
 
 - Mathematics - Textbook section 1.6
+	- Monday [Slides](https://canvas.ubc.ca/courses/62921/files/9740324/download?wrap=1)
 
 - Physics - [Prognostication notes](https://canvas.ubc.ca/courses/62922/files/9590019/download?wrap=1)
+	- Monday [Slides](https://canvas.ubc.ca/courses/62922/files/9701834/download)
 
 - Biology 
 	- At home portion of [GBRF Handout](https://canvas.ubc.ca/courses/62806/files/9176463/download?wrap=1) - Prepare for Quiz 2
