@@ -16,7 +16,7 @@ categories: weekly reading
 
 ## Upcoming Quizzes
 
-First Math quiz Monday - Limits  
+First Math quiz [Monday - Limits](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/quiz_mode/MATH_Quiz_1/?effectiveUser=F9KXN5EOGI06&user=F9KXN5EOGI06&key=xSfJwqhlWxWfeMVlcwSieBZfajmyhvso)  
 Second Biology quiz Tuesday  
 First Physics quiz Thursday - Arduino and Python progress (Participation Mark)
 
