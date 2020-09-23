@@ -29,10 +29,12 @@ First Physics quiz Thursday - Arduino and Python progress (Participation Mark)
 
 - Mathematics - Textbook section 1.6
 	- Monday [Slides](https://canvas.ubc.ca/courses/62921/files/9740324/download?wrap=1)
+	- Wednesday [Slides](https://canvas.ubc.ca/courses/62921/files/9786166/download?wrap=1)
 
 - Physics - [Prognostication notes](https://canvas.ubc.ca/courses/62922/files/9590019/download?wrap=1)
 	- Monday [Slides](https://canvas.ubc.ca/courses/62922/files/9701834/download)
 	- Tuesday [Slides](https://canvas.ubc.ca/courses/62922/files/9750649/download) and [Python](https://canvas.ubc.ca/courses/62922/files/9751065/download)
+	- Wednesday [Slides](https://canvas.ubc.ca/courses/62922/files/9773968/download)
 
 - Biology 
 	- At home portion of [GBRF Handout](https://canvas.ubc.ca/courses/62806/files/9176463/download?wrap=1) - Prepare for Quiz 2
