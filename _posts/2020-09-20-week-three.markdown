@@ -9,9 +9,8 @@ categories: weekly reading
 - BIOL 140 - Comment on videos in [CLAS](https://clas2.arts.ubc.ca/science)
 - Computer Science [Worksheet 1](https://canvas.ubc.ca/courses/62922/assignments/607511?module_item_id=2238689)  
 - Everything in Sapling Learning 
-- Mathematics
-	- MATH H1.2 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/quiz_mode/MATH_Quiz_1/?effectiveUser=F9KXN5EOGI06&user=F9KXN5EOGI06&key=xSfJwqhlWxWfeMVlcwSieBZfajmyhvso)
-	- Physics R1.2 Prognosticating on [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/quiz_mode/MATH_Quiz_1/?effectiveUser=F9KXN5EOGI06&user=F9KXN5EOGI06&key=xSfJwqhlWxWfeMVlcwSieBZfajmyhvso)
+- Math H1.2 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/quiz_mode/MATH_Quiz_1/?effectiveUser=F9KXN5EOGI06&user=F9KXN5EOGI06&key=xSfJwqhlWxWfeMVlcwSieBZfajmyhvso)
+- Physics R1.2 Prognosticating on [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/quiz_mode/MATH_Quiz_1/?effectiveUser=F9KXN5EOGI06&user=F9KXN5EOGI06&key=xSfJwqhlWxWfeMVlcwSieBZfajmyhvso)
 
 ## Schedule
 
