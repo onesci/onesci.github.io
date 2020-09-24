@@ -13,6 +13,7 @@ categories: weekly reading
 - Physics H1.1 and R1.2 Prognosticating on [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/quiz_mode/MATH_Quiz_1/?effectiveUser=F9KXN5EOGI06&user=F9KXN5EOGI06&key=xSfJwqhlWxWfeMVlcwSieBZfajmyhvso)
 - Maths Written Assignment
 - Chemistry [Worksheet 1](https://canvas.ubc.ca/courses/62920/files/9654436/download?wrap=1) and [Worksheet 2](https://canvas.ubc.ca/courses/62920/files/9759295/download?wrap=1)
+- Computer Science [Worksheet 2](https://canvas.ubc.ca/courses/62922/assignments/688868?module_item_id=2404464) and associated [Python File](https://canvas.ubc.ca/courses/62922/files/9774495/download?wrap=1)
 
 ## Schedule
 
@@ -27,7 +28,7 @@ First Physics quiz Thursday - Arduino and Python progress (Participation Mark)
 ## Reading
 
 - Chemistry - Textbook sections [10.4 - 10.6](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_%28Petrucci_et_al.%29/10%3A_Chemical_Bonding_I%3A_Basic_Concepts)
-	- Tuesday [Slides](https://canvas.ubc.ca/courses/62920/files/9653726/download?wrap=1)
+	- Week [Slides](https://canvas.ubc.ca/courses/62920/files/9653726/download?wrap=1)
 
 - Mathematics - Textbook section 1.6
 	- Monday [Slides](https://canvas.ubc.ca/courses/62921/files/9740324/download?wrap=1)
@@ -37,6 +38,7 @@ First Physics quiz Thursday - Arduino and Python progress (Participation Mark)
 	- Monday [Slides](https://canvas.ubc.ca/courses/62922/files/9701834/download)
 	- Tuesday [Slides](https://canvas.ubc.ca/courses/62922/files/9750649/download) and [Python](https://canvas.ubc.ca/courses/62922/files/9751065/download)
 	- Wednesday [Slides](https://canvas.ubc.ca/courses/62922/files/9773968/download)
+	- Thursday [Slides]()
 
 - Biology 
 	- At home portion of [GBRF Handout](https://canvas.ubc.ca/courses/62806/files/9176463/download?wrap=1) - Prepare for Quiz 2
