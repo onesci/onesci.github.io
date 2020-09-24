@@ -11,7 +11,7 @@ categories: weekly reading
 - Everything in Sapling Learning 
 - Math H1.1 and H1.2 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/quiz_mode/MATH_Quiz_1/?effectiveUser=F9KXN5EOGI06&user=F9KXN5EOGI06&key=xSfJwqhlWxWfeMVlcwSieBZfajmyhvso)
 - Physics H1.1 and R1.2 Prognosticating on [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/quiz_mode/MATH_Quiz_1/?effectiveUser=F9KXN5EOGI06&user=F9KXN5EOGI06&key=xSfJwqhlWxWfeMVlcwSieBZfajmyhvso)
-- Maths Written Assignment
+- Maths Written Assignment (Someday??????)
 - Chemistry [Worksheet 1](https://canvas.ubc.ca/courses/62920/files/9654436/download?wrap=1) and [Worksheet 2](https://canvas.ubc.ca/courses/62920/files/9759295/download?wrap=1)
 - Computer Science [Worksheet 2](https://canvas.ubc.ca/courses/62922/assignments/688868?module_item_id=2404464) and associated [Python File](https://canvas.ubc.ca/courses/62922/files/9774495/download?wrap=1)
 - GBRF [Worksheet](https://canvas.ubc.ca/courses/62806/files/9664574/download?wrap=1) Questions 1 and 2
