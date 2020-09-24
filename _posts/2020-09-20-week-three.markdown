@@ -12,6 +12,7 @@ categories: weekly reading
 - Math H1.1 and H1.2 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/quiz_mode/MATH_Quiz_1/?effectiveUser=F9KXN5EOGI06&user=F9KXN5EOGI06&key=xSfJwqhlWxWfeMVlcwSieBZfajmyhvso)
 - Physics H1.1 and R1.2 Prognosticating on [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/quiz_mode/MATH_Quiz_1/?effectiveUser=F9KXN5EOGI06&user=F9KXN5EOGI06&key=xSfJwqhlWxWfeMVlcwSieBZfajmyhvso)
 - Maths Written Assignment
+- Chemistry [Worksheet 1](https://canvas.ubc.ca/courses/62920/files/9654436/download?wrap=1) and [Worksheet 2](https://canvas.ubc.ca/courses/62920/files/9759295/download?wrap=1)
 
 ## Schedule
 
