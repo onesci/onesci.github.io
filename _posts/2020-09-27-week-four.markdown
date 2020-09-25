@@ -22,7 +22,7 @@ categories: weekly reading
 
 ## Upcoming Quizzes
 
-Second Maths quiz [Tuesday - Limits, Continuity, and The Intermediate Value Theorem](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/quiz_mode/MATH_Quiz_1/?effectiveUser=F9KXN5EOGI06&user=F9KXN5EOGI06&key=xSfJwqhlWxWfeMVlcwSieBZfajmyhvso)  
+Second Maths quiz [Monday - Limits, Continuity, and The Intermediate Value Theorem](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/quiz_mode/MATH_Quiz_1/?effectiveUser=F9KXN5EOGI06&user=F9KXN5EOGI06&key=xSfJwqhlWxWfeMVlcwSieBZfajmyhvso)  
 Third Biology quiz Tuesday  
 T1 Project Topic Selection
 
