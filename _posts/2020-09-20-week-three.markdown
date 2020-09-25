@@ -15,7 +15,8 @@ categories: weekly reading
 - Chemistry [Worksheet 1](https://canvas.ubc.ca/courses/62920/files/9654436/download?wrap=1) and [Worksheet 2](https://canvas.ubc.ca/courses/62920/files/9759295/download?wrap=1)
 - Computer Science [Worksheet 2](https://canvas.ubc.ca/courses/62922/assignments/688868?module_item_id=2404464) and associated [Python File](https://canvas.ubc.ca/courses/62922/files/9774495/download?wrap=1)
 - GBRF [Worksheet](https://canvas.ubc.ca/courses/62806/files/9664574/download?wrap=1) Questions 1 and 2
-- Tutorial [Worksheet](https://canvas.ubc.ca/courses/62920/files/9758737/download?download_frd=1)
+- Chemistry Tutorial [Worksheet](https://canvas.ubc.ca/courses/62920/files/9758737/download?download_frd=1)
+- Maths Tutorial [Worksheet](https://canvas.ubc.ca/courses/62921/files/9819281/download?wrap=1)
 
 ## Schedule
 
