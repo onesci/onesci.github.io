@@ -8,7 +8,7 @@ title: Resources
 
 # [Piazza](https://canvas.ubc.ca/courses/62807/external_tools/201?display=borderless)
 
-# [WebMO](https://abacus.chem.ubc.ca)
+# [WebMO](https://canvas.ubc.ca/courses/62920/external_tools/2985?display=borderless)
 
 
 # Chemistry
