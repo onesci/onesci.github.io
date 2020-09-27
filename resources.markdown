@@ -6,6 +6,8 @@ title: Resources
 
 # [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 
+# [Sapling Learning](https://canvas.ubc.ca/courses/62920/modules/items/2122446)
+
 # [Piazza](https://canvas.ubc.ca/courses/62807/external_tools/201?display=borderless)
 
 # [WebMO](https://canvas.ubc.ca/courses/62920/external_tools/2985?display=borderless)
