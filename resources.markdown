@@ -17,7 +17,7 @@ title: Resources
 - [Canvas](https://canvas.ubc.ca/courses/62920)
 - [General Chemistry Textbook](https://chem.libretexts.org/Bookshelves/)
 - [Organic Chemistry Textbook](https://chem.libretexts.org/Bookshelves/ Organic_Chemistry/Book%3A_Organic_Ch emistry_with_a_Biological_Emphasis_v2. 0_(Soderberg))
-- [Email Nolan Bett](mailto:nolan.bett@ubc.ca ) - nolan.bett@ubc.ca 
+- [Email Chris Addison](mailto:chris.addison@ubc.ca) - chris.addison@ubc.ca 
 
 # Mathematics
 - [Canvas](https://canvas.ubc.ca/courses/62921)
