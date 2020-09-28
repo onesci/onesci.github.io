@@ -16,7 +16,7 @@ title: Resources
 # Chemistry
 - [Canvas](https://canvas.ubc.ca/courses/62920)
 - [General Chemistry Textbook](https://chem.libretexts.org/Bookshelves/)
-- [Organic Chemistry Textbook](https://chem.libretexts.org/Bookshelves/ Organic_Chemistry/Book%3A_Organic_Ch emistry_with_a_Biological_Emphasis_v2. 0_(Soderberg))
+- [Organic Chemistry Textbook](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_v2.0_%28Soderberg%29)
 - [Email Chris Addison](mailto:chris.addison@ubc.ca) - chris.addison@ubc.ca 
 - [Email John Sherman](mailto:sherman@chem.ubc.ca) - sherman@chem.ubc.ca
 
