@@ -29,7 +29,7 @@ title: Resources
 
 # Physics
 - [Canvas](https://canvas.ubc.ca/courses/62922)
-- [Knight Textbook](https://www.icloud.com/iclouddrive/0r8Vrcg15WywXhTUP8Y-3P7wA#Knight,_Randall_Dewey_-_Physics_for_scientists_and_engineers__a_strategic_approach_with_modern_physics-Pearson_(2017))
+- [Knight Textbook](https://www.icloud.com/iclouddrive/0r8Vrcg15WywXhTUP8Y-3P7wA#Knight,_Randall_Dewey_-_Physics_for_scientists_and_engineers__a_strategic_approach_with_modern_physics-Pearson_%282017%29)
 - [LibreText Textbook](https://openstax.org/details/books/uni)
 - [Email James Charbonneau](mailto:james@phas.ubc.ca) - james@phas.ubc.ca
 - [Email Chris Waltham](mailto:cew@phas.ubc.ca) - cew@phas.ubc.ca
