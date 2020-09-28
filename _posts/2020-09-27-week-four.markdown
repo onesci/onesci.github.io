@@ -32,6 +32,7 @@ T1 Project Topic Selection
 - Chemistry - Textbook sections [Section 10?](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_%28Petrucci_et_al.%29/10%3A_Chemical_Bonding_I%3A_Basic_Concepts)
 
 - Mathematics - Textbook sections 2.1-2.6 and main results of 2.7-2.9
+	- Monday [Slides](https://canvas.ubc.ca/courses/62921/files/9915522/download?wrap=1)
 
 - Physics - [Prognostication notes](https://canvas.ubc.ca/courses/62922/files/9590019/download?wrap=1)
 	- Monday [Slides](https://canvas.ubc.ca/courses/62922/files/9905679/download) and [Python File](https://canvas.ubc.ca/courses/62922/files/9905653/download)
