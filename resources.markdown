@@ -12,6 +12,8 @@ title: Resources
 
 # [WebMO](https://canvas.ubc.ca/courses/62920/external_tools/2985?display=borderless)
 
+# [UBC Library](https://library.ubc.ca)
+
 
 # Chemistry
 - [Canvas](https://canvas.ubc.ca/courses/62920)
