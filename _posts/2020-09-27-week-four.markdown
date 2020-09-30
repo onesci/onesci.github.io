@@ -37,6 +37,7 @@ T1 Project Topic Selection
 
 - Physics - [Prognostication notes](https://canvas.ubc.ca/courses/62922/files/9590019/download?wrap=1)
 	- Monday [Slides](https://canvas.ubc.ca/courses/62922/files/9905679/download) and [Python File](https://canvas.ubc.ca/courses/62922/files/9905653/download)
+	- Wednesday [Slides]
 
 - Biology 
 	- At home portion of [GBRF Handout](https://canvas.ubc.ca/courses/62806/files/9176463/download?wrap=1) - Prepare for Quiz 3 and 4
