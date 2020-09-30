@@ -12,6 +12,7 @@ title: Notes
 - [Lecture 3 - Squeeze theorem and Discontinuities](https://drive.google.com/file/d/1KW2BQt_6t9Zb59wbw93r60GyjNtTmHcl/view?usp=sharing)
 - [Lecture 4 - Continuity and Intermediate Value Theorem](https://drive.google.com/file/d/1tZkpT3Sb1mmOlx8FRCkKq7_UGxAP3CiV/view?usp=sharing)
 - [Lecture 5 - More IVT and Definition of The Derivative](https://drive.google.com/file/d/1tMNht4roqN70bTIyq2z9PXvCWUFnCjBO/view?usp=sharing)
+- [Lecture 6 - Derivatives 2: Electric Boogaloo (2/1000)](https://drive.google.com/file/d/1Fl_W7PeZnG14w8LPrjr7KZ8hq8DZaCtx/view?usp=sharing)
 
 ## Biology
 - [Carbon and Nitrogen Cycling](https://drive.google.com/file/d/1kn33S5wXZ9jg_5AahWM4hpX8mxxYP-pu/view?usp=sharing)
