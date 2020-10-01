@@ -21,7 +21,4 @@ title: Notes
 - [DNA 1 - Pre-Class](https://drive.google.com/file/d/1rv9nrIIqJpmBpHopp3glkcS_V_6XN0XF/view?usp=sharing)
 
 ## Chemistry
-- [Bonding III](https://drive.google.com/file/d/1PrFDbb0bRebqfc2gexX8YYJnfS1mOeot/view?usp=sharing)
-- [Bonding IV](https://drive.google.com/file/d/1PrFDbb0bRebqfc2gexX8YYJnfS1mOeot/view?usp=sharing)
-- [Bonding IV](https://drive.google.com/file/d/1PrFDbb0bRebqfc2gexX8YYJnfS1mOeot/view?usp=sharing)
-- [Bonding V](https://drive.google.com/file/d/1nyp0EYjhH-yFVXemVPMrYknIorXrtvoB/view?usp=sharing)
+- [Bonding III - V](https://drive.google.com/file/d/1PrFDbb0bRebqfc2gexX8YYJnfS1mOeot/view?usp=sharing)
