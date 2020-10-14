@@ -40,4 +40,5 @@ Fifth Biology quiz Wednesday - DNA Replication
 - Biology
 	- [DNA Replication](https://canvas.ubc.ca/courses/62806/modules/items/1883023)
 	- [PCR and Gel Electrophoresis](https://canvas.ubc.ca/courses/62806/modules/items/1883024)
+		- [Worksheet](https://1drv.ms/w/s!ArosazORtsD9pxXX8xYHRZsU7C76?e=d1a8gZ)
 	- [Mutation and DNA Repair](https://canvas.ubc.ca/courses/62806/modules/items/1883025)
