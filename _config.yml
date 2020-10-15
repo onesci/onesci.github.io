@@ -33,7 +33,7 @@ theme: hyde
 plugins:
   - jekyll-feed
 
-paginate: 3
+paginate: 2
 
 # Exclude from processing.
 # The following items will not be processed, by default.
