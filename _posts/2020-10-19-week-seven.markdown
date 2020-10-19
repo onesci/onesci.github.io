@@ -32,6 +32,7 @@ First Biology midterm Tuesday - [Imogen's Superquiz](https://canvas.ubc.ca/cours
 
 
 - Physics - [Chapter 10](https://canvas.ubc.ca/courses/62922/modules/items/2077993)
+	- Monday [Slides](https://canvas.ubc.ca/courses/62922/files/10381214/download?wrap=1)
 
 
 - Biology
