@@ -30,6 +30,7 @@ Third Physics quiz Thursday - Momentum and antidifferentiation
 - Chemistry - [Unit 3 Notes](https://canvas.ubc.ca/courses/62920/modules/307465)
 
 - Mathematics - 7.4 on [Active Calculus](https://activecalculus.org/) and CLP 1 3.3, 3.3.1-3.3.3
+	- Monday [Slides](https://canvas.ubc.ca/courses/62921/files/10470997/download?wrap=1)
 
 
 - Physics - [Chapter 10](https://canvas.ubc.ca/courses/62922/modules/items/2077993)
