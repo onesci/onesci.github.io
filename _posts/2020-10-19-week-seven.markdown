@@ -22,6 +22,7 @@ categories: weekly reading
 
 Fourth Maths Quiz Tuesday - Indefinite integrals and implicit differentiation
 First Biology midterm Tuesday - [Imogen's Superquiz](https://canvas.ubc.ca/courses/62806/modules/items/2474689) and [TOP SECRET LINK](https://www.icloud.com/iclouddrive/0Pl3FKesyDC77RiDvovgS9Gjw#2019_Quiz_5_DNA_repli)
+Third Physics quiz Thursday - Momentum and antidifferentiation
 
 
 ## Reading
