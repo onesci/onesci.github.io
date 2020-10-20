@@ -8,7 +8,7 @@ categories: weekly reading
 ## Homework - Scroll Down for Reading
 - BIOL 140 - Comment on videos in [CLAS](https://clas2.arts.ubc.ca/science)
 - Chemistry 4 and 5 in [Sapling Learning](https://share.vidyard.com/watch/kMbhmAvMr9BESagCxpSTGS?)
-- Math 1.6 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
+- Math H1.6 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 - Physics R1.3 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 - Maths [Written Assignment 2](https://canvas.ubc.ca/courses/62921/files/10269487/download?wrap=1)
 - PCR [Worksheet](https://1drv.ms/w/s!ArosazORtsD9pxXX8xYHRZsU7C76?e=d1a8gZ)
