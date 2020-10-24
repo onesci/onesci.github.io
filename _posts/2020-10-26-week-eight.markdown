@@ -1,0 +1,41 @@
+---
+layout: default
+title:  "Week Eight"
+date:   2020-10-26 19:37:27 -0700
+categories: weekly reading
+---
+
+## Homework - Scroll Down for Reading
+- BIOL 140 - Comment on videos in [CLAS](https://clas2.arts.ubc.ca/science)
+- Chemistry 5 and 6 in [Sapling Learning](https://share.vidyard.com/watch/kMbhmAvMr9BESagCxpSTGS?)
+- Math H1.7 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
+- Physics R1.4 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
+- T1 first draft for peer review
+
+## Schedule
+
+![Week Eight Schedule](/assets/w8schedule.png)
+
+## Upcoming Quizzes
+
+Fifth Maths quiz Tuesday - Indefinite integrals, implicit differentiation, and ODEs   
+Sixth Biology quiz Tuesday - Gene expression and mutation
+Second Chemistry quiz Monday - Chrality and Stereochemistry
+Fourth Physics quiz Thursday - Momentum and antidifferentiation
+
+
+## Reading
+
+- Chemistry - [Unit 3 Notes](https://canvas.ubc.ca/courses/62920/modules/307465)
+
+- Mathematics - 7.3-7.4 on [Active Calculus](https://activecalculus.org/) and CLP 2 2.4.1 - 2.4.4
+
+- Physics - [Dot Product on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
+
+
+- Biology
+	- [Transcription](https://canvas.ubc.ca/courses/62806/modules/items/1883029)
+	- [Genetic Code and Mutation](https://canvas.ubc.ca/courses/62806/modules/items/1883030)
+	- [Translation](https://canvas.ubc.ca/courses/62806/modules/items/1883031)
+
+- STL
