@@ -26,7 +26,7 @@ Fourth Physics quiz Thursday - Momentum and antidifferentiation
 
 ## Reading
 
-- Chemistry - [Unit 3 Notes](https://canvas.ubc.ca/courses/62920/modules/307465)
+- Chemistry - [Readings](https://canvas.ubc.ca/courses/62920/files/9923697/download?download_frd=1)
 
 - Mathematics - 7.3-7.4 on [Active Calculus](https://activecalculus.org/) and CLP 2 2.4.1 - 2.4.4
 
