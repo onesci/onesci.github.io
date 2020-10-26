@@ -11,6 +11,7 @@ categories: weekly reading
 - Math H1.7 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 - Physics R1.4 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 - T1 first draft for peer review
+- Biweekly [Reflection](https://canvas.ubc.ca/courses/62807/quizzes/263380)
 
 ## Schedule
 
