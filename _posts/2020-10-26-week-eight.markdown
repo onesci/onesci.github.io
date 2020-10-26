@@ -30,7 +30,7 @@ Fourth Physics quiz Thursday - Momentum and antidifferentiation
 - Chemistry - [Readings](https://canvas.ubc.ca/courses/62920/files/9923697/download?download_frd=1)
 
 - Mathematics - 7.3-7.4 on [Active Calculus](https://activecalculus.org/) and CLP 2 2.4.1 - 2.4.4
-	<!-- - Monday [Slides]() -->
+	<!-- - Monday [Slides]() --> 
 
 - Physics - [Dot Product on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 	- Monday [Work](https://canvas.ubc.ca/courses/62922/files/10612312/download?wrap=1) and maybe [Conservation of Energy](https://canvas.ubc.ca/courses/62922/files/10542604/download?wrap=1)
