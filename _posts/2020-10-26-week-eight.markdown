@@ -34,6 +34,7 @@ Second Chemistry quiz Monday - Chrality and Stereochemistry
 
 - Physics - [Dot Product on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 	- Monday [Work](https://canvas.ubc.ca/courses/62922/files/10612312/download?wrap=1) and maybe [Conservation of Energy](https://canvas.ubc.ca/courses/62922/files/10542604/download?wrap=1)
+	- Tuesday [Computer Science](https://canvas.ubc.ca/courses/62922/assignments/719098?module_item_id=2514681) and [Python File](https://canvas.ubc.ca/courses/62922/files/10673809/download?wrap=1)
 
 
 - Biology
