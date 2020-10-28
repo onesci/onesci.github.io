@@ -31,6 +31,7 @@ Second Chemistry quiz Monday - Chrality and Stereochemistry
 
 - Mathematics - 7.3-7.4 on [Active Calculus](https://activecalculus.org/) and CLP 2 2.4.1 - 2.4.4
 	- Monday [Slides](https://canvas.ubc.ca/courses/62921/files/10664474/download?wrap=1) 
+	- Wednesday [Slides](https://canvas.ubc.ca/api/v1/canvadoc_session?blob=%7B%22moderated_grading_allow_list%22:null,%22enable_annotations%22:null,%22enrollment_type%22:null,%22anonymous_instructor_annotations%22:null,%22submission_id%22:null,%22user_id%22:112240000000211395,%22attachment_id%22:10726936,%22type%22:%22canvadoc%22%7D&hmac=d356f233cd9f897fce8799784f31162d8d39b407)
 
 - Physics - [Dot Product on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 	- Monday [Work](https://canvas.ubc.ca/courses/62922/files/10612312/download?wrap=1) and maybe [Conservation of Energy](https://canvas.ubc.ca/courses/62922/files/10542604/download?wrap=1)
