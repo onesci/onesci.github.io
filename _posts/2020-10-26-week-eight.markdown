@@ -44,5 +44,6 @@ Second Chemistry quiz Monday - Chrality and Stereochemistry
 	- [Transcription](https://canvas.ubc.ca/courses/62806/modules/items/1883029)
 	- [Genetic Code and Mutation](https://canvas.ubc.ca/courses/62806/modules/items/1883030)
 	- [Translation](https://canvas.ubc.ca/courses/62806/modules/items/1883031)
+	- [Genomes, genotypes, and phenotypes???](https://canvas.ubc.ca/courses/62806/modules/items/2055260)
 
 - STL
