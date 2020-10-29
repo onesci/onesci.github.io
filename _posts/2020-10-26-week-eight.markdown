@@ -10,8 +10,10 @@ categories: weekly reading
 - Chemistry 5 and 6 in [Sapling Learning](https://share.vidyard.com/watch/kMbhmAvMr9BESagCxpSTGS?)
 - Math H1.7 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 - Physics R1.4 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
-- T1 first draft for peer review
+- T1 first draft for peer review and peer review on ComPAIR
 - Biweekly [Reflection](https://canvas.ubc.ca/courses/62807/quizzes/263380)
+- Chemistry drawings
+- Biology Worksheet
 
 ## Schedule
 
