@@ -37,6 +37,7 @@ Fourth Physics quiz Thursday - Momentum and antidifferentiation
 	- First Law of Thermodynamics, [Monday](https://canvas.ubc.ca/courses/62922/files/10767451/download)
 	- Second Law of Thermodynamics, [Tuesday](https://canvas.ubc.ca/courses/62922/files/10768461/download)
 	- Thermodynamic Cycles, [Wednesday](https://canvas.ubc.ca/courses/62922/files/10891357/download)
+	- Thermodynamics [Summary Sheet](https://canvas.ubc.ca/courses/62922/files/10866098/download?wrap=1)
 
 - Biology
 	- Genomes, genotypes, and phenotypes [study guide](https://canvas.ubc.ca/courses/62806/modules/items/2055260)
