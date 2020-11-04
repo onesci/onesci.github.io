@@ -31,12 +31,12 @@ Fourth Physics quiz Thursday - Momentum and antidifferentiation
 
 - Mathematics - <!-- 7.3-7.4 on [Active Calculus](https://activecalculus.org/) and  -->CLP 2.13 and 3.5-3.6
 	- Mean Value Theorem, [Monday](https://canvas.ubc.ca/courses/62921/files/10851034/download?wrap=1)
-	- Local Extrema, [Tuesday](https://canvas.ubc.ca/courses/62921/files/10905867/download?wrap=1)
+	- Local Extrema, [Wednesday](https://canvas.ubc.ca/courses/62921/files/10905867/download?wrap=1)
 
 - Physics - [Thermodynamics on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 	- First Law of Thermodynamics, [Monday](https://canvas.ubc.ca/courses/62922/files/10767451/download)
 	- Second Law of Thermodynamics, [Tuesday](https://canvas.ubc.ca/courses/62922/files/10768461/download)
-	- Thermodynamic Cycles, Wednesday](https://canvas.ubc.ca/courses/62922/files/10891357/download)
+	- Thermodynamic Cycles, [Wednesday](https://canvas.ubc.ca/courses/62922/files/10891357/download)
 
 - Biology
 	- Genomes, genotypes, and phenotypes [study guide](https://canvas.ubc.ca/courses/62806/modules/items/2055260)
