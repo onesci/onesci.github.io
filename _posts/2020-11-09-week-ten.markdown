@@ -1,0 +1,42 @@
+---
+layout: default
+title:  "Week Ten"
+date:   2020-11-09 19:37:27 -0700
+categories: weekly reading
+---
+
+## Homework - Scroll Down for Reading
+- Physics experiment preparation (emailed)
+- BIOL 140 - Comment on videos in [CLAS](https://clas2.arts.ubc.ca/science)
+- Chemistry 8 and 9 in [Sapling Learning](https://canvas.ubc.ca/courses/62920/modules/items/2122446)
+- Math H1.9 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
+- Physics R1.5 and H1.5 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
+- T1 Presentation for Saturday
+
+## Schedule
+
+![Week Ten Schedule](/assets/w10schedule.png)
+
+## Upcoming Quizzes
+
+Sixth Maths quiz Monday - ODEs, MVT, and IVT
+<!-- Second Maths test Monday - Everything so far with an emphasis on antiderivatives, implicit differentiation and ODEs -->
+Eighth Biology quiz Tuesday - Genomes, Genotypes, and Phenotypes
+Third Chemistry quiz Thursday - Unit 4
+Fifth Physics quiz Thursday - Momentum and antidifferentiation
+
+
+## Reading
+
+- Chemistry - [Readings](https://canvas.ubc.ca/courses/62920/files/9923697/download?download_frd=1)
+	- [Thermodynamics](https://canvas.ubc.ca/courses/62920/pages/class-16-november-5-introduction-to-thermodynamics?module_item_id=251584)
+
+- Mathematics - <!-- 7.3-7.4 on [Active Calculus](https://activecalculus.org/) and  -->CLP 3.5-3.6
+
+- Physics - [Thermodynamics on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/) - Open Stax 2 [1.6](https://openstax.org/books/university-physics-volume-2/pages/1-6-mechanisms-of-heat-transfer)
+
+- Biology
+	- Genomes, genotypes, and phenotypes [study guide](https://canvas.ubc.ca/courses/62806/modules/items/2055260)
+	- Mitosis and Meiosis [study guide](https://canvas.ubc.ca/courses/62806/files/10861641/download?wrap=1)
+
+- STL
