@@ -28,7 +28,7 @@ Fifth Physics quiz Thursday - Momentum and antidifferentiation
 
 ## Reading
 
-- Chemistry - [Readings](https://canvas.ubc.ca/courses/62920/files/9923697/download?download_frd=1)
+- Chemistry
 	- [Thermodynamics](https://canvas.ubc.ca/courses/62920/pages/class-16-november-5-introduction-to-thermodynamics?module_item_id=251584)
 
 - Mathematics - <!-- 7.3-7.4 on [Active Calculus](https://activecalculus.org/) and  -->CLP 3.5-3.6
@@ -37,6 +37,6 @@ Fifth Physics quiz Thursday - Momentum and antidifferentiation
 
 - Biology
 	- Genomes, genotypes, and phenotypes [study guide](https://canvas.ubc.ca/courses/62806/modules/items/2055260)
-	- Mitosis and Meiosis [study guide](https://canvas.ubc.ca/courses/62806/files/10861641/download?wrap=1)
+	- Mitosis and Meiosis [study guide](https://canvas.ubc.ca/courses/62806/files/10861641/download?wrap=19)
 
 - STL
