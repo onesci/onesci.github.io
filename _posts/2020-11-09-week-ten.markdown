@@ -34,6 +34,7 @@ Fifth Physics quiz Thursday - Momentum and antidifferentiation
 
 - Mathematics - <!-- 7.3-7.4 on [Active Calculus](https://activecalculus.org/) and  -->CLP 3.5-3.6
 	- Derivative Tests, [Monday](https://canvas.ubc.ca/courses/62921/files/11033902/download?wrap=1)
+	- Concavity, [Tuesday](https://canvas.ubc.ca/courses/62921/files/11063058/download?wrap=1)
 
 - Physics - [Thermodynamics on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/) - Open Stax 2 [1.6](https://openstax.org/books/university-physics-volume-2/pages/1-6-mechanisms-of-heat-transfer)
 
