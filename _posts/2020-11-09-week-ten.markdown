@@ -20,11 +20,11 @@ categories: weekly reading
 
 ## Upcoming Quizzes
 
-Sixth Maths quiz Monday - ODEs, MVT, and IVT
-<!-- Second Maths test Monday - Everything so far with an emphasis on antiderivatives, implicit differentiation and ODEs -->
-Eighth Biology quiz Tuesday - Genomes, Genotypes, and Phenotypes
-Third Chemistry quiz Thursday - Unit 4
-Fifth Physics quiz Thursday - Momentum and antidifferentiation
+Sixth Maths quiz Monday - ODEs, MVT, and IVT   
+<!-- Second Maths test Monday - Everything so far with an emphasis on antiderivatives, implicit differentiation and ODEs -->   
+Eighth Biology quiz Tuesday - Genomes, Genotypes, and Phenotypes   
+Third Chemistry quiz Thursday - Stereochemistry   
+Fifth Physics quiz Thursday - Momentum and antidifferentiation   
 
 
 ## Reading
@@ -40,5 +40,6 @@ Fifth Physics quiz Thursday - Momentum and antidifferentiation
 - Biology
 	- Genomes, genotypes, and phenotypes [study guide](https://canvas.ubc.ca/courses/62806/modules/items/2055260)
 	- Mitosis and Meiosis [study guide](https://canvas.ubc.ca/courses/62806/files/10861641/download?wrap=19)
+	- Monday [Slides](https://canvas.ubc.ca/courses/62806/files/10948997/download?wrap=1)
 
 - STL
