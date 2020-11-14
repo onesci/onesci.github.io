@@ -23,8 +23,8 @@ categories: weekly reading
 Sixth Maths quiz Monday - ODEs, MVT, and IVT   
 <!-- Second Maths test Monday - Everything so far with an emphasis on antiderivatives, implicit differentiation and ODEs -->   
 Ninth Biology quiz Tuesday - Genetic analysis   
-Third Chemistry quiz Thursday - Stereochemistry   
-Fifth Physics quiz Thursday - Momentum and antidifferentiation   
+<!-- Third Chemistry quiz Thursday - Stereochemistry    -->
+Fifth Physics quiz Thursday - Thermodynamics   
 
 
 ## Reading
