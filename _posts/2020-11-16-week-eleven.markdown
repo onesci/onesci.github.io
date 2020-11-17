@@ -9,7 +9,7 @@ categories: weekly reading
 - Physics experiment
 - BIOL 140 - Comment on videos in [CLAS](https://clas2.arts.ubc.ca/science)
 - PHYS 119 Prelab
-<!-- - Chemistry 9 in [Sapling Learning](https://canvas.ubc.ca/courses/62920/modules/items/2122446) -->
+- Chemistry 9 in [Sapling Learning](https://canvas.ubc.ca/courses/62920/modules/items/2122446)
 - Math H1.10 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 - Physics R1.5 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 - T1 Final Copy
