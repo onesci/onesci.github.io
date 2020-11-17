@@ -31,6 +31,7 @@ Ninth Biology quiz Tuesday - Genetic analysis
 
 - Chemistry
 	- [Thermodynamics](https://canvas.ubc.ca/courses/62920/pages/class-16-november-5-introduction-to-thermodynamics?module_item_id=251584) and [Enthalpy](https://canvas.ubc.ca/courses/62920/pages/class-18-november-12-the-first-law-in-action-introducing-enthalpy?module_item_id=2565605)
+	- More [Enthalpy, and Entropy](https://canvas.ubc.ca/courses/62920/pages/class-19-november-17-enthalpy-wrap-up-introducing-entropy?module_item_id=2576905)
 
 - Mathematics - 7 on [Active Calculus](https://activecalculus.org/) and CLP 1.5, 3.6.1, 3.7
 	- Asymptotic behavior and limits at infinity, [Monday](https://canvas.ubc.ca/courses/62921/files/11188955/download?wrap=1)
