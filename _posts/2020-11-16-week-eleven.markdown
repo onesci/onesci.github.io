@@ -38,6 +38,7 @@ Ninth Biology quiz Tuesday - Genetic analysis
 
 - Physics - [Rotations on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)<!--  - Open Stax 2 [1.6](https://openstax.org/books/university-physics-volume-2/pages/1-6-mechanisms-of-heat-transfer) -->
 	- Heat Transfer II, [Monday](https://canvas.ubc.ca/courses/62922/files/11108440/download)
+	- Angular Momentum, [Wednesday](https://canvas.ubc.ca/courses/62922/files/11223740/download?wrap=1)
 
 - Biology
 	- Mitosis and Meiosis [study guide](https://canvas.ubc.ca/courses/62806/files/10861641/download?wrap=19)
