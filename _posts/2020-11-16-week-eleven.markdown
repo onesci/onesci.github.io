@@ -35,6 +35,7 @@ Ninth Biology quiz Tuesday - Genetic analysis
 
 - Mathematics - 7 on [Active Calculus](https://activecalculus.org/) and CLP 1.5, 3.6.1, 3.7
 	- Asymptotic behavior and limits at infinity, [Monday](https://canvas.ubc.ca/courses/62921/files/11188955/download?wrap=1)
+	- Autonomous ODEs, [Wednesday](https://canvas.ubc.ca/courses/62921/files/11241029/download?wrap=1)
 
 - Physics - [Rotations on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)<!--  - Open Stax 2 [1.6](https://openstax.org/books/university-physics-volume-2/pages/1-6-mechanisms-of-heat-transfer) -->
 	- Heat Transfer II, [Monday](https://canvas.ubc.ca/courses/62922/files/11108440/download)
