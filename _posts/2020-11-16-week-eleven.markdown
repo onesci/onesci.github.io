@@ -43,6 +43,6 @@ Ninth Biology quiz Tuesday - Genetic analysis
 
 - Biology
 	- Mitosis and Meiosis [study guide](https://canvas.ubc.ca/courses/62806/files/10861641/download?wrap=19)
-	- Introduction to Genetic Analysis [study guide(https://canvas.ubc.ca/courses/62806/files/11139317/download?wrap=1), and [lecture slides](https://canvas.ubc.ca/courses/62806/files/11248243/download?wrap=1)
+	- Introduction to Genetic Analysis [study guide](https://canvas.ubc.ca/courses/62806/files/11139317/download?wrap=1), and [lecture slides](https://canvas.ubc.ca/courses/62806/files/11248243/download?wrap=1)
 
 - STL
