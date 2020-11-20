@@ -25,7 +25,6 @@ Sixth Maths quiz Monday - Critical points and derivative tests
 Ninth Biology quiz Tuesday - Genetic analysis   
 <!-- Third Chemistry quiz Thursday - Stereochemistry    -->
 <!-- Fifth Physics quiz Thursday - Thermodynamics    -->
-Only two tests? Wow ez
 
 ## Reading
 
