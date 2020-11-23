@@ -33,10 +33,10 @@ Fourth Chemistry quiz Thursday - Thermodynamics
 	- More [Enthalpy, and Entropy](https://canvas.ubc.ca/courses/62920/pages/class-19-november-17-enthalpy-wrap-up-introducing-entropy?module_item_id=2576905)
 	
 - Mathematics - <!-- 7 on [Active Calculus](https://activecalculus.org/) and -->CLP 3.5
+	- Global Optimization, [Monday](https://canvas.ubc.ca/courses/62921/files/11355146/download?wrap=1)
 
 - Physics -<!-- [Rotations on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/) --><!--  - Open Stax 2 [1.6](https://openstax.org/books/university-physics-volume-2/pages/1-6-mechanisms-of-heat-transfer) --> Frames of Reference [Worksheet](https://canvas.ubc.ca/courses/62922/files/11317297/download?wrap=1)
-	- Heat Transfer II, [Monday](https://canvas.ubc.ca/courses/62922/files/11108440/download)
-	- Angular Momentum, [Wednesday](https://canvas.ubc.ca/courses/62922/files/11223740/download?wrap=1)
+	- Torque, [Monday](https://canvas.ubc.ca/courses/62922/files/11317839/download?wrap=1)
 
 - Biology
 	- Mitosis and Meiosis [study guide](https://canvas.ubc.ca/courses/62806/files/10861641/download?wrap=19)
