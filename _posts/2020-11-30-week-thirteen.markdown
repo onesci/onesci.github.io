@@ -17,8 +17,8 @@ categories: weekly reading
 
 ## Upcoming Quizzes
 
-Seventh Maths quiz Monday - Optimization and Relative Rates    
-<!-- Third Maths test Tuesday - Increasing and decreasing functions and critical points -->   
+Seventh Maths quiz Monday - Optimization and Relative Rates   
+<!-- Third Maths test Tuesday - Increasing and decreasing functions and critical points      -->
 Eleventh Biology quiz Tuesday - (Participation Quiz)   
 Fifth Chemistry quiz Thursday - Thermodynamics   
 Sixth Physics quiz Thursday - Rotations and Heat Transfer   
