@@ -6,6 +6,7 @@ categories: weekly reading
 ---
 
 ## Homework - Scroll Down for Reading
+- Read John's email and forget all that is wrong with this world and the 9000 things we have to do for 5s
 - BIOL 140 Presentation
 - Course Evaluations
 - Math 1.12 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
