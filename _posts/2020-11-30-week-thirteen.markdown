@@ -7,6 +7,7 @@ categories: weekly reading
 
 ## Homework - Scroll Down for Reading
 - Read John's email and forget all that is wrong with this world and the 9000 things we have to do for 5s
+- [Question Form](https://docs.google.com/forms/d/e/1FAIpQLSd7Ap-z8dqHEoEyUuvLY8uulco76j9DpxsyGqReufXZq9ef5g/viewform) for roundtable discussion
 - BIOL 140 Presentation
 - Electrochemistry [Worksheet](https://canvas.ubc.ca/courses/62920/files/11482929/download?wrap=1)
 - Course Evaluations
