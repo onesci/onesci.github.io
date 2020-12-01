@@ -29,7 +29,7 @@ Sixth Physics quiz Monday - Rotations and Heat Transfer
 ## Reading
 
 - Chemistry
-	- Electrochemistry - Nothing on Canvas yet.
+	- Electrochemistry, [Tuesday](https://canvas.ubc.ca/courses/62920/files/11535125/download?wrap=1)
 	
 - Mathematics - <!-- 7 on [Active Calculus](https://activecalculus.org/) and -->CLP 3.4 and 3.6.4 (in CLP 2)
 	- Taylor Polynomials, [Monday](https://canvas.ubc.ca/courses/62921/files/11543476/download?wrap=1)
