@@ -35,7 +35,7 @@ Sixth Physics quiz Monday - Rotations and Heat Transfer
 	- Taylor Polynomials, [Monday](https://canvas.ubc.ca/courses/62921/files/11543476/download?wrap=1), and [Wednesday](https://canvas.ubc.ca/courses/62921/files/11605239/download?wrap=1)
 
 - Physics <!-- - [Rotations on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/) --><!--  - Open Stax 2 [1.6](https://openstax.org/books/university-physics-volume-2/pages/1-6-mechanisms-of-heat-transfer) --><!-- Frames of Reference [Worksheet](https://canvas.ubc.ca/courses/62922/files/11317297/download?wrap=1) -->
-	- Length Contraction and Simultaneity, [Monday](https://canvas.ubc.ca/courses/62922/files/11523482/download?wrap=1)
+	- Length Contraction and Simultaneity, [Monday](https://canvas.ubc.ca/courses/62922/files/11523482/download?wrap=1), and [Wednesday](https://canvas.ubc.ca/courses/62922/files/11583023/download?wrap=1)
 
 
 - Biology
