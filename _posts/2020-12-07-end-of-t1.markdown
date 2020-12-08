@@ -12,7 +12,7 @@ categories: weekly reading
 - Physics H1.8 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 
 ## Exam Schedule
-- Chemistry - Tuesday, December 8
+- ~~Chemistry - Tuesday, December 8~~ **One down, three to go. Good job, guys!**
 - Physics - Friday, December 11
 - Mathematics - Tuesday, December 15
 - Biology - Thursday, December 17
