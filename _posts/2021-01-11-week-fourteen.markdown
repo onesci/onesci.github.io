@@ -24,7 +24,7 @@ First Biology quiz Tuesday - Genetic Analysis
 ## Reading
 
 - Chemistry
-	- Unit 6 on Canvas (not open yet)
+	- Unit 6 on Canvas (not available yet)
 	
 - Mathematics - <!-- 7 on [Active Calculus](https://activecalculus.org/) and -->CLP 1.1 and 1.2 (in CLP 2)
 
