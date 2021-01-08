@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  "Week Thirteen"
-date:   2020-11-30 19:37:27 -0700
+title:  "Week Fourteen"
+date:   2021-01-11 19:37:27 -0700
 categories: weekly reading
 ---
 
