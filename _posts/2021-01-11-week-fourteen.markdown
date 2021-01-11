@@ -31,6 +31,8 @@ First Biology quiz Tuesday - Genetic Analysis
 
 
 - Physics - [Waves on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)<!--  - Open Stax 2 [1.6](https://openstax.org/books/university-physics-volume-2/pages/1-6-mechanisms-of-heat-transfer) -->
+	- Tuesday - [Oscillations](https://canvas.ubc.ca/courses/62922/files/12181375/download) and [Python File](https://canvas.ubc.ca/courses/62922/files/12181377/download)
+	- Thursday - [Transverse Waves](https://canvas.ubc.ca/courses/62922/files/12181373/download)
 
 
 - Biology
