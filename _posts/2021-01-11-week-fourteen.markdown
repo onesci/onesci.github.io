@@ -34,5 +34,5 @@ First Biology quiz Tuesday - Genetic Analysis
 
 
 - Biology
-	- Population Genetics [Study Guide](https://canvas.ubc.ca/courses/62806/files/12081460?wrap=1)
+	- Population Genetics [Study Guide](https://canvas.ubc.ca/courses/62806/files/12081460?wrap=1) and [Slides](https://canvas.ubc.ca/courses/62806/files/12231114?wrap=1)
 - STL
