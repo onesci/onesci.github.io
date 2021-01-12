@@ -4,6 +4,7 @@ title:  "Week Fourteen"
 date:   2021-01-11 19:37:27 -0700
 categories: weekly reading
 ---
+## [Zoom Link](https://ubc.zoom.us/j/69489092134?pwd=ZTRxOFNmRmNVT3NpWVhmV0VDTEpyUT09)
 
 ## Homework - Scroll Down for Reading
 <!-- - Math 1.13 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/) -->
