@@ -7,8 +7,8 @@ categories: weekly reading
 ## [Zoom Link](https://ubc.zoom.us/j/69489092134?pwd=ZTRxOFNmRmNVT3NpWVhmV0VDTEpyUT09)
 
 ## Homework - Scroll Down for Reading
-<!-- - Math 1.13 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/) -->
-- Physics R2.1 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
+- Math H2.1in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
+- Physics H2.1 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 - Read Lord Martin Rees' [article](https://www.independent.co.uk/news/long_reads/science-and- technology/astronomer-royal-coronavirus-climate-change-science-albert-einstein-a9682126.html) and [submit](https://canvas.ubc.ca/courses/62807/assignments/790668) at least one question
 
 ## Schedule
