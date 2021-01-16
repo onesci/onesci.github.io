@@ -7,6 +7,7 @@ categories: weekly reading
 ## [Zoom Link](https://ubc.zoom.us/j/69489092134?pwd=ZTRxOFNmRmNVT3NpWVhmV0VDTEpyUT09)
 
 ## Homework - Scroll Down for Reading
+- T2 Project Proposal on [Canvas](https://canvas.ubc.ca/courses/62807/assignments/796522?module_item_id=2779275)
 - Math H2.1in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 - Physics H2.1 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 
