@@ -27,7 +27,7 @@ Second Biology quiz Tuesday - Population Genetics
 ## Reading
 
 - Chemistry - [Kinetics on Canvas](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/14%3A_Chemical_Kinetics)
-	- Kinetics [Part 2](https://canvas.ubc.ca/courses/62920/files/12301501/download?download_frd=1)
+	- Kinetics [Part 2](https://canvas.ubc.ca/courses/62920/files/12301501/download?download_frd=1) and [Part 3](https://canvas.ubc.ca/courses/62920/files/12371669?wrap=1)
 	
 - Mathematics - <!-- 7 on [Active Calculus](https://activecalculus.org/) and -->CLP 1.3 and 1.4 (in CLP 2)
 
