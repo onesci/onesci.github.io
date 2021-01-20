@@ -10,6 +10,7 @@ categories: weekly reading
 - T2 Project Proposal on [Canvas](https://canvas.ubc.ca/courses/62807/assignments/796522?module_item_id=2779275)
 - Math H2.1in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 - Physics H2.1 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
+- Biology [Weasels Worksheet](https://canvas.ubc.ca/courses/62806/files/8415113/download?wrap=1)
 
 
 ## Schedule
