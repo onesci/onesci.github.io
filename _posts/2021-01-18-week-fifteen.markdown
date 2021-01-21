@@ -36,6 +36,7 @@ Second Biology quiz Monday - Population Genetics
 
 - Physics - <!--[Waves on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/) --><!--  - Open Stax 2 [1.6](https://openstax.org/books/university-physics-volume-2/pages/1-6-mechanisms-of-heat-transfer) -->[Additional Material on Canvas](https://canvas.ubc.ca/courses/62922/pages/module-6-lecture-material?module_item_id=2827028)
 	- [Standing and Longitudinal Waves](https://canvas.ubc.ca/courses/62922/files/12373310/download)
+	- [Acoustic Spectra](https://canvas.ubc.ca/courses/62922/files/12424253/download)
 
 
 - Biology
