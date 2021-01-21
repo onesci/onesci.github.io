@@ -31,6 +31,7 @@ Second Biology quiz Monday - Population Genetics
 	- Kinetics [Part 2](https://canvas.ubc.ca/courses/62920/files/12301501/download?download_frd=1), [Part 3](https://canvas.ubc.ca/courses/62920/files/12371669?wrap=1), and [Part 4](https://canvas.ubc.ca/courses/62920/files/12413411?wrap=1)
 	
 - Mathematics - <!-- 7 on [Active Calculus](https://activecalculus.org/) and -->CLP 1.3 and 1.4 (in CLP 2)
+	- [Substitution](https://canvas.ubc.ca/courses/62921/files/12406763?wrap=1)
 
 
 - Physics - <!--[Waves on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/) --><!--  - Open Stax 2 [1.6](https://openstax.org/books/university-physics-volume-2/pages/1-6-mechanisms-of-heat-transfer) -->[Additional Material on Canvas](https://canvas.ubc.ca/courses/62922/pages/module-6-lecture-material?module_item_id=2827028)
