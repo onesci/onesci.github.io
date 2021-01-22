@@ -8,9 +8,11 @@ categories: weekly reading
 
 ## Homework - Scroll Down for Reading
 - T2 Project Proposal on [Canvas](https://canvas.ubc.ca/courses/62807/assignments/796522?module_item_id=2779275)
-- Math H2.1in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
-- Physics H2.1 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
+- Math H2.1, 2,2, and 2,3 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
+- Physics H2.1 and 1,8 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 - Biology [Weasels Worksheet](https://canvas.ubc.ca/courses/62806/files/8415113/download?wrap=1)
+- Biology [Selection Tutorial](https://canvas.ubc.ca/courses/62806/modules/items/1883058)
+- Chemistry [Kinetics Tutorial](https://canvas.ubc.ca/courses/62920/files/12402366/download?download_frd=1)
 
 
 ## Schedule
