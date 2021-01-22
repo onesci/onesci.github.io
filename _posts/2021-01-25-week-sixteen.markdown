@@ -12,6 +12,7 @@ categories: weekly reading
 - Biology [Selection Tutorial](https://canvas.ubc.ca/courses/62806/modules/items/1883058)
 - Chemistry [Kinetics Tutorial](https://canvas.ubc.ca/courses/62920/files/12402366/download?download_frd=1)
 - Chemistry [Kinetics Sapling Assignment](https://canvas.ubc.ca/courses/62920/modules/items/2866542)
+- Meet with T2 mentor
 
 
 ## Schedule
