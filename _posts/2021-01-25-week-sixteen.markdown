@@ -18,6 +18,7 @@ categories: weekly reading
 ## Schedule
 
 ![Week Sixteen Schedule](/assets/w16schedule.png)
+Game Night on the 29th from 6-7 PM PST
 
 ## Upcoming Quizzes
 
