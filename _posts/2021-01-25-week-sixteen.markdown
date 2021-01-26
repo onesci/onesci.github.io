@@ -36,6 +36,7 @@ First Chemistry quiz Thursday/Friday - Kinetics
 - Mathematics - <!-- 7 on [Active Calculus](https://activecalculus.org/) and -->CLP 1.5 and 1.7
 
 - Physics - <!--[Waves on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/) --><!--  - Open Stax 2 [1.6](https://openstax.org/books/university-physics-volume-2/pages/1-6-mechanisms-of-heat-transfer) -->Vol. 1 Ch. 16, 18, Vol. 3 Ch. 3.1 and 3.2
+	- Computer Science [Kinetics Worksheet](https://canvas.ubc.ca/courses/62922/assignments/821103?module_item_id=2873040) and [Python File](https://canvas.ubc.ca/courses/62922/files/12517909?wrap=1)
 
 - Biology
 	- Species and Speciation [Study Guide](https://canvas.ubc.ca/courses/62806/files/12395104?wrap=1), [Primers](https://canvas.ubc.ca/courses/62806/files/12395251?wrap=1), and [Slides](https://canvas.ubc.ca/courses/62806/files/12502342?wrap=1)
