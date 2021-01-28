@@ -34,6 +34,7 @@ First Chemistry quiz Thursday/Friday - Kinetics
 	- Kinetics [Part 5](https://canvas.ubc.ca/courses/62920/files/12513489?wrap=1)
 	
 - Mathematics - <!-- 7 on [Active Calculus](https://activecalculus.org/) and -->CLP 1.5 and 1.7
+	- Integration by Parts [Slides](https://canvas.ubc.ca/courses/62921/files/12581381?wrap=1)
 
 - Physics - <!--[Waves on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/) --><!--  - Open Stax 2 [1.6](https://openstax.org/books/university-physics-volume-2/pages/1-6-mechanisms-of-heat-transfer) -->Vol. 1 Ch. 16, 18, Vol. 3 Ch. 3.1 and 3.2
 	- [Beats and Scales](https://canvas.ubc.ca/courses/62922/files/12524196/download)
