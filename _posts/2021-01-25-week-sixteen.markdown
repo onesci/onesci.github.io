@@ -7,7 +7,7 @@ categories: weekly reading
 ## [Zoom Link](https://ubc.zoom.us/j/69489092134?pwd=ZTRxOFNmRmNVT3NpWVhmV0VDTEpyUT09)
 
 ## Homework - Scroll Down for Reading
-- Math H2.2, and 2.3 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
+- Math H2.2, 2.3, 2.4, and 2.5 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 - Physics H2.1 and 1.8 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 - Biology [Selection Tutorial](https://canvas.ubc.ca/courses/62806/modules/items/1883058)
 - Chemistry [Kinetics Tutorial](https://canvas.ubc.ca/courses/62920/files/12402366/download?download_frd=1)
