@@ -28,6 +28,7 @@ Third Maths quiz Tuesday - Areas and Integration by Parts
 ## Reading
 
 - Chemistry - [Intermolecular Forces](https://canvas.ubc.ca/courses/62920/modules/items/2875691)
+    - Intermolecular Forces [Slides](https://canvas.ubc.ca/courses/62920/files/12535229?wrap=1)
 
 	
 - Mathematics - <!-- 7 on [Active Calculus](https://activecalculus.org/) and -->CLP 1.6 and 2.31
