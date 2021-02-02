@@ -32,7 +32,7 @@ Third Maths quiz Tuesday - Areas and Integration by Parts
 
 	
 - Mathematics - <!-- 7 on [Active Calculus](https://activecalculus.org/) and -->CLP 1.6 and 2.31
-
+    - Computing Volumes with Integrals [Slides](https://canvas.ubc.ca/courses/62921/files/12702674?wrap=1)
 - Physics - <!--[Waves on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/) -->Open Stax 3 [6.3](https://openstax.org/books/university-physics-volume-3/pages/6-3-the-compton-effect), [6.5](https://openstax.org/books/university-physics-volume-3/pages/6-5-de-broglies-matter-waves), and [6.6](https://openstax.org/books/university-physics-volume-3/pages/6-6-wave-particle-duality)<!-- Vol. 1 Ch. 16, 18, Vol. 3 Ch. 3.1 and 3.2 -->
     - Wave Forms [Slides](https://canvas.ubc.ca/courses/62922/files/12686502/download) and Interference and Diffraction [Slides](L33 - interference and diffraction)
 
