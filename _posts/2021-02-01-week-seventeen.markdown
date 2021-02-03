@@ -41,7 +41,7 @@ Third Maths quiz Tuesday - Areas and Integration by Parts
 - Biology - Quantitative Trait Artificial Selection [Worksheet](https://canvas.ubc.ca/courses/62806/files/12555704?wrap=1) and ACORNS [Worksheet](https://canvas.ubc.ca/courses/62806/files/12515861?wrap=1)
     - Population Ecology [Slides](https://canvas.ubc.ca/courses/62806/modules/items/2891692)
     - Phospholipid Bilayers [Slides](https://canvas.ubc.ca/courses/62806/files/8407384/download?wrap=1) and [Page](https://canvas.ubc.ca/courses/62806/pages/membranes-phospholipid-bilayers?module_item_id=1883060)
-    - Membranes [Page](https://canvas.ubc.ca/courses/62806/pages/membranes-general-properties?module_item_id=1883061) and [Slides](https://canvas.ubc.ca/courses/62806/files/8410295/download)
+    - Membranes [Page](https://canvas.ubc.ca/courses/62806/pages/membranes-general-properties?module_item_id=1883061) and [Slides](https://canvas.ubc.ca/courses/62806/files/8410618/download?wrap=1)
 
 
 - STL
