@@ -39,6 +39,7 @@ Third Maths quiz Tuesday - Areas and Integration by Parts
     - Wave Forms [Slides](https://canvas.ubc.ca/courses/62922/files/12686502/download) 
     - Interference and Diffraction [Slides](https://canvas.ubc.ca/courses/62922/files/12751342/download)
     - Intro to Quantum Mechanics [Slides](https://canvas.ubc.ca/courses/62922/files/12771338?wrap=1)
+    - Computer Science [Worksheet 7](https://canvas.ubc.ca/courses/62922/files/12682889?wrap=1)
 
 
 - Biology - Quantitative Trait Artificial Selection [Worksheet](https://canvas.ubc.ca/courses/62806/files/12555704?wrap=1) and ACORNS [Worksheet](https://canvas.ubc.ca/courses/62806/files/12515861?wrap=1)
