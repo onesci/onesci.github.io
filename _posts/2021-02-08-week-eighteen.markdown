@@ -15,7 +15,7 @@ categories: weekly reading
 
 ## Schedule
 
-![Week Seventeen Schedule](/assets/w17schedule.png)
+![Week Eighteen Schedule](/assets/w18schedule.png)
 
 ## Upcoming Quizzes
 
