@@ -11,7 +11,7 @@ categories: weekly reading
 - Physics H2.2 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 - Chemistry [Sapling Assignment](https://canvas.ubc.ca/courses/62920/assignments/826652?module_item_id=2896149)
 - Computer Science [Worksheet 7](https://canvas.ubc.ca/courses/62922/files/12682889?wrap=1)
-- Membrane Properties Worksheet - Emailed
+- Membrane Properties [Worksheet](https://canvas.ubc.ca/courses/62806/files/12284566?wrap=1)
 
 
 ## Schedule
@@ -40,7 +40,8 @@ First Maths test Tuesday - All Integration Covered so far
 
 
 - Biology 
-    - Membranes [Page](https://canvas.ubc.ca/courses/62806/pages/membranes-general-properties?module_item_id=1883061) and [Slides](https://canvas.ubc.ca/courses/62806/files/8410618/download?wrap=1)
+    - Membranes [Page](https://canvas.ubc.ca/courses/62806/pages/membranes-general-properties?module_item_id=1883061) and
+     [Slides](https://canvas.ubc.ca/courses/62806/files/8410618/download?wrap=1)
 
 
 - STL
