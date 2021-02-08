@@ -42,6 +42,7 @@ First Maths test Tuesday - All Integration Covered so far
 - Biology 
     - Membranes [Page](https://canvas.ubc.ca/courses/62806/pages/membranes-general-properties?module_item_id=1883061) and
      [Slides](https://canvas.ubc.ca/courses/62806/files/8410618/download?wrap=1)
+    - Amino Acids and Polypeptides [Page](https://canvas.ubc.ca/courses/62806/pages/amino-acids-and-polypeptides?module_item_id=1883062) and [Slides](https://canvas.ubc.ca/courses/62806/files/8415109/download?wrap=1)
 
 
 - STL
