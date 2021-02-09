@@ -32,6 +32,7 @@ Second Physics quiz Thursday/Friday - Waves Classical and Quantum
 - Chemistry - [Intermolecular Forces](https://canvas.ubc.ca/courses/62920/modules/items/2875691)
     - Intermolecular Forces [Slides](https://canvas.ubc.ca/courses/62920/files/12535229?wrap=1)
     - Quantum [Slides](https://canvas.ubc.ca/courses/62920/files/12882773?wrap=1)
+    - Transition State Hunting [PDF](https://canvas.ubc.ca/courses/62920/files/12896117?module_item_id=2917488) or [Word Doc](https://canvas.ubc.ca/courses/62920/files/12898855?module_item_id=2917802)
 
 	
 - Mathematics - <!-- 7 on [Active Calculus](https://activecalculus.org/) and -->CLP 1.11
