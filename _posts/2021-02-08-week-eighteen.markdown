@@ -22,7 +22,7 @@ categories: weekly reading
 
 Fifth Biology quiz Monday - Membrane Properties    
 <!-- Third Maths quiz Tuesday - Areas and Integration by Parts     -->
-First Maths test Tuesday - All Integration Covered so far     
+First Maths test Thursday - All Integration Covered so far     
 Second Physics quiz Thursday/Friday - Waves Classical and Quantum    
 <!-- First Chemistry quiz Thursday/Friday - Kinetics    -->
 
