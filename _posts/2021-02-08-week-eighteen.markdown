@@ -12,6 +12,7 @@ categories: weekly reading
 - Chemistry [Sapling Assignment](https://canvas.ubc.ca/courses/62920/assignments/826652?module_item_id=2896149)
 - Computer Science [Worksheet 7](https://canvas.ubc.ca/courses/62922/files/12682889?wrap=1)
 - Membrane Properties [Worksheet](https://canvas.ubc.ca/courses/62806/files/12284566?wrap=1)
+- Biology [Predator Prey Simulation](https://canvas.ubc.ca/courses/62806/pages/predator-prey-simulation?module_item_id=1883059)
 
 
 ## Schedule
