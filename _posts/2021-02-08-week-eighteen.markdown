@@ -20,16 +20,17 @@ categories: weekly reading
 
 ## Upcoming Quizzes
 
-Fifth Biology quiz Monday - Membrane Properties   
-Second Physics quiz Monday/Tuesday - Waves and Acoustics  
+Fifth Biology quiz Monday - Membrane Properties    
 <!-- Third Maths quiz Tuesday - Areas and Integration by Parts     -->
 First Maths test Tuesday - All Integration Covered so far     
+Second Physics quiz Thursday/Friday - Waves Classical and Quantum    
 <!-- First Chemistry quiz Thursday/Friday - Kinetics    -->
 
 ## Reading
 
 - Chemistry - [Intermolecular Forces](https://canvas.ubc.ca/courses/62920/modules/items/2875691)
     - Intermolecular Forces [Slides](https://canvas.ubc.ca/courses/62920/files/12535229?wrap=1)
+    - Quantum [Slides](https://canvas.ubc.ca/courses/62920/files/12882773?wrap=1)
 
 	
 - Mathematics - <!-- 7 on [Active Calculus](https://activecalculus.org/) and -->CLP 1.11
