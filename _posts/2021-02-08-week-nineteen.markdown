@@ -11,6 +11,7 @@ categories: weekly reading
 - Physics R2.2 in [WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/)
 - Chemistry [Sapling Assignment](https://canvas.ubc.ca/courses/62920/assignments/826652?module_item_id=2896149)
 - Ribonuclease Renaturation Worksheet (Emailed)
+- Schedule meeting with T2 mentor
 
 
 ## Schedule
