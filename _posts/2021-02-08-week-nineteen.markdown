@@ -28,6 +28,7 @@ Second Chemistry quiz Thursday/Friday - Intermolecular Forces and Quantum
 ## Reading
 
 - Chemistry - [Intermolecular Forces](https://canvas.ubc.ca/courses/62920/modules/items/2875691) and [Orbitals](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/08%3A_Electrons_in_Atoms)
+    - Quantum and Orbitals [Slides](https://canvas.ubc.ca/courses/62920/files/12882773?wrap=1)
 
 	
 - Mathematics - <!-- 7 on [Active Calculus](https://activecalculus.org/) and -->CLP 1.8 to 1.10
