@@ -33,6 +33,7 @@ Second Chemistry quiz Thursday/Friday - Intermolecular Forces and Quantum
 
 	
 - Mathematics - <!-- 7 on [Active Calculus](https://activecalculus.org/) and -->CLP 1.8 to 1.10
+    - Tuesday [Slides](https://canvas.ubc.ca/courses/62921/files/13148734?wrap=1)
 
 
 - Physics - <!--[Waves on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/) -->Open Stax 3 [5.1 to 5.4](https://openstax.org/books/university-physics-volume-3/pages/5-1-invariance-of-physical-laws)<!-- Vol. 1 Ch. 16, 18, Vol. 3 Ch. 3.1 and 3.2 -->
