@@ -36,7 +36,7 @@ Second Chemistry quiz Thursday/Friday - Intermolecular Forces and Quantum
 
 
 - Physics - <!--[Waves on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/) -->Open Stax 3 [5.1 to 5.4](https://openstax.org/books/university-physics-volume-3/pages/5-1-invariance-of-physical-laws)<!-- Vol. 1 Ch. 16, 18, Vol. 3 Ch. 3.1 and 3.2 -->
-
+    - Stern-Gerlach [Slides](https://canvas.ubc.ca/courses/62922/files/13159300?wrap=1)
 
 - Biology 
     - Protein Structure [Page](https://canvas.ubc.ca/courses/62806/pages/protein-structure?module_item_id=1883063) and [Slides](https://canvas.ubc.ca/courses/62806/files/8407385/download?wrap=1)
