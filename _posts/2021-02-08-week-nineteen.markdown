@@ -21,7 +21,7 @@ categories: weekly reading
 ## Upcoming Quizzes
 
 Sixth Biology quiz Monday - Amino Acids    
-Fourth Maths quiz Tuesday - Numerical integration and Centre of Mass (Maybe?)    
+Fourth Maths quiz Thursday - Numerical integration and Centre of Mass (Maybe?)    
 <!-- First Maths test Thursday - All Integration Covered so far      -->
 <!-- Second Physics quiz Thursday/Friday - Waves Classical and Quantum     -->
 Second Chemistry quiz Thursday/Friday - Intermolecular Forces and Quantum   
