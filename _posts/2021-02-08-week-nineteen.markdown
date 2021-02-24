@@ -30,6 +30,7 @@ Second Chemistry quiz Thursday/Friday - Intermolecular Forces and Quantum
 
 - Chemistry - [Intermolecular Forces](https://canvas.ubc.ca/courses/62920/modules/items/2875691) and [Orbitals](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/08%3A_Electrons_in_Atoms)
     - Quantum and Orbitals [Slides](https://canvas.ubc.ca/courses/62920/files/12882773?wrap=1)
+    - Orbital Math [Slides](https://canvas.ubc.ca/courses/62920/files/12882773?wrap=1)
 
 	
 - Mathematics - <!-- 7 on [Active Calculus](https://activecalculus.org/) and -->CLP 1.8 to 1.10
@@ -42,6 +43,8 @@ Second Chemistry quiz Thursday/Friday - Intermolecular Forces and Quantum
 - Biology 
     - Protein Structure [Page](https://canvas.ubc.ca/courses/62806/pages/protein-structure?module_item_id=1883063) and [Slides](https://canvas.ubc.ca/courses/62806/files/8407385/download?wrap=1)
     - Membrane Proteins [Page](https://canvas.ubc.ca/courses/62806/pages/membrane-proteins?module_item_id=1883064) and [Slides](https://canvas.ubc.ca/courses/62806/files/8415142/download?wrap=1)
+    - Protein Targeting [Page](https://canvas.ubc.ca/courses/62806/pages/protein-processing-targeting-to-membranes?module_item_id=1883065) and [Slides](https://canvas.ubc.ca/courses/62806/files/8415041/download?wrap=1)
+    - Regulation of Gene Expression [Intro Page](https://canvas.ubc.ca/courses/62806/pages/introduction-to-regulation-of-gene-expression?module_item_id=2061824), [Regulation of Gene Expression in Bacteria Page](https://canvas.ubc.ca/courses/62806/pages/regulation-of-gene-expression-in-bacteria-lac-operon?module_item_id=1883068) and [Slides](https://canvas.ubc.ca/courses/62806/files/8411653/download?wrap=1)
 
 
 - STL
