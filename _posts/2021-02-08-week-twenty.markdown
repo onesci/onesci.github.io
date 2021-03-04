@@ -41,6 +41,7 @@ Fourth Maths quiz Thursday - Techniques of Integration
 - Physics - <!--[Waves on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/) -->Open Stax 3 [5.6 to 5.7](https://openstax.org/books/university-physics-volume-3/pages/5-1-invariance-of-physical-laws)<!-- Vol. 1 Ch. 16, 18, Vol. 3 Ch. 3.1 and 3.2 -->
     - Electrostatics Summary [Document](https://canvas.ubc.ca/courses/62922/files/13309838?wrap=1)
     - L39 - Intermolecular Forces [Slides](https://canvas.ubc.ca/courses/62922/files/13308241?wrap=1) and [Dipole Simulation](https://canvas.ubc.ca/courses/62922/files/13306690?wrap=1)
+    - L40 - Charge Distributions [Slides](https://canvas.ubc.ca/courses/62922/files/13375706?wrap=1)
 
 
 - Biology - [Tutorial Prep](https://canvas.ubc.ca/courses/62806/pages/tutorials-in-silico-pcr-primer-design-and-)
