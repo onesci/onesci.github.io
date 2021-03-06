@@ -26,23 +26,23 @@ Third Physics quiz Thursday/Friday - Quantum Mechanics and Electrostatics
 
 ## Reading
 
-- Chemistry - [VBT and MO Theory](https://canvas.ubc.ca/courses/62920/files/13173415?module_item_id=2970686)
+- [Chemistry](https://canvas.ubc.ca/courses/62920) - [VBT and MO Theory](https://canvas.ubc.ca/courses/62920/files/13173415?module_item_id=2970686)
     - Valence Bond Theory and Molecular Orbital Theory [Slides](https://canvas.ubc.ca/courses/62920/files/13173314/download?download_frd=1)
 
 	
-- Mathematics - <!-- 7 on [Active Calculus](https://activecalculus.org/) and --><!-- CLP 1.12 -->[Probability](https://canvas.ubc.ca/courses/62921/files/9455024/download?wrap=1)
+- [Mathematics](https://canvas.ubc.ca/courses/62921) - <!-- 7 on [Active Calculus](https://activecalculus.org/) and --><!-- CLP 1.12 -->[Probability](https://canvas.ubc.ca/courses/62921/files/9455024/download?wrap=1)
     - Tuesday [Slides](https://canvas.ubc.ca/courses/62921/files/13320356?wrap=1)
     - Thursday [Slides](https://canvas.ubc.ca/courses/62921/files/13380514?wrap=1)
 
 
-- Physics - <!--[Waves on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/) -->Open Stax 3 [6.1, 7.1, and 7.2](https://openstax.org/books/university-physics-volume-3/pages/5-1-invariance-of-physical-laws)<!-- Vol. 1 Ch. 16, 18, Vol. 3 Ch. 3.1 and 3.2 -->
+- [Physics](https://canvas.ubc.ca/courses/62922) - <!--[Waves on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/) -->Open Stax 3 [6.1, 7.1, and 7.2](https://openstax.org/books/university-physics-volume-3/pages/5-1-invariance-of-physical-laws)<!-- Vol. 1 Ch. 16, 18, Vol. 3 Ch. 3.1 and 3.2 -->
 
 
 
-- Biology
+- [Biology](https://canvas.ubc.ca/courses/62806)
     - Regulation of Gene Expression in Eukaryotes [Page](https://canvas.ubc.ca/courses/62806/pages/regulation-of-gene-expression-in-eukaryotes?module_item_id=1883069) and [Slides](https://canvas.ubc.ca/courses/62806/files/8415075/download?wrap=1)
     - Tools for Studying Gene Expression [Page](https://canvas.ubc.ca/courses/62806/pages/tools-for-studying-gene-expression?module_item_id=1883070) and [Slides](https://canvas.ubc.ca/courses/62806/files/8412138/download?wrap=1)
     - Regulation of Gene Expression in Development [Page](https://canvas.ubc.ca/courses/62806/pages/regulation-of-gene-expression-in-development?module_item_id=1883071) and [SLides](https://canvas.ubc.ca/courses/62806/files/8415149/download?wrap=1)
 
 
-- STL
+- [STL](https://canvas.ubc.ca/courses/62807a)
