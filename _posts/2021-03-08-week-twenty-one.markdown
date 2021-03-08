@@ -28,6 +28,7 @@ Third Physics quiz Thursday/Friday - Quantum Mechanics and Electrostatics
 
 - [Chemistry](https://canvas.ubc.ca/courses/62920) - [VBT and MO Theory](https://canvas.ubc.ca/courses/62920/files/13173415?module_item_id=2970686)
     - Valence Bond Theory and Molecular Orbital Theory [Slides](https://canvas.ubc.ca/courses/62920/files/13173314/download?download_frd=1)
+    - Resonance Tutorial [Document](https://canvas.ubc.ca/courses/62920/files/13173554/download?download_frd=1)
 
 	
 - [Mathematics](https://canvas.ubc.ca/courses/62921) - <!-- 7 on [Active Calculus](https://activecalculus.org/) and --><!-- CLP 1.12 -->[Probability](https://canvas.ubc.ca/courses/62921/files/9455024/download?wrap=1)
@@ -42,7 +43,8 @@ Third Physics quiz Thursday/Friday - Quantum Mechanics and Electrostatics
 - [Biology](https://canvas.ubc.ca/courses/62806)
     - Regulation of Gene Expression in Eukaryotes [Page](https://canvas.ubc.ca/courses/62806/pages/regulation-of-gene-expression-in-eukaryotes?module_item_id=1883069) and [Slides](https://canvas.ubc.ca/courses/62806/files/8415075/download?wrap=1)
     - Tools for Studying Gene Expression [Page](https://canvas.ubc.ca/courses/62806/pages/tools-for-studying-gene-expression?module_item_id=1883070) and [Slides](https://canvas.ubc.ca/courses/62806/files/8412138/download?wrap=1)
-    - Regulation of Gene Expression in Development [Page](https://canvas.ubc.ca/courses/62806/pages/regulation-of-gene-expression-in-development?module_item_id=1883071) and [SLides](https://canvas.ubc.ca/courses/62806/files/8415149/download?wrap=1)
+    - Regulation of Gene Expression in Development [Page](https://canvas.ubc.ca/courses/62806/pages/regulation-of-gene-expression-in-development?module_item_id=1883071) and SLides [1](https://canvas.ubc.ca/courses/62806/files/8415149/download?wrap=1) and [2](https://canvas.ubc.ca/courses/62806/files/8412543/download?wrap=1)
+    - Enzymes [Page](https://canvas.ubc.ca/courses/62806/pages/enzymes?module_item_id=1883073) and [Slides](https://canvas.ubc.ca/courses/62806/files/8415170/download?wrap=1)
 
 
 - [STL](https://canvas.ubc.ca/courses/62807a)
