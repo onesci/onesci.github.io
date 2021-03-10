@@ -32,7 +32,7 @@ Third Physics quiz Thursday/Friday - Quantum Mechanics and Electrostatics
 
 	
 - [Mathematics](https://canvas.ubc.ca/courses/62921) - <!-- 7 on [Active Calculus](https://activecalculus.org/) and --><!-- CLP 1.12 -->[Probability](https://canvas.ubc.ca/courses/62921/files/9455024/download?wrap=1)
-    - Tuesday [Slides](https://canvas.ubc.ca/courses/62921/files/13485605?wrap=1)
+    - Tuesday [Slides](https://canvas.ubc.ca/courses/62921/files/13485605?wrap=1)z
 
 
 - [Physics](https://canvas.ubc.ca/courses/62922) - <!--[Waves on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/) -->Open Stax 3 [6.1, 7.1, and 7.2](https://openstax.org/books/university-physics-volume-3/pages/5-1-invariance-of-physical-laws)<!-- Vol. 1 Ch. 16, 18, Vol. 3 Ch. 3.1 and 3.2 -->
