@@ -37,6 +37,7 @@ Third Physics quiz Thursday/Friday - Quantum Mechanics and Electrostatics
 
 - [Physics](https://canvas.ubc.ca/courses/62922) - <!--[Waves on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/) -->Open Stax 3 [6.1, 7.1, and 7.2](https://openstax.org/books/university-physics-volume-3/pages/5-1-invariance-of-physical-laws)<!-- Vol. 1 Ch. 16, 18, Vol. 3 Ch. 3.1 and 3.2 -->
     - L41 More Charge Distributions [Slides](https://canvas.ubc.ca/courses/62922/files/13473579?wrap=1)
+    - L42 Fields and Potentials [Slides](https://canvas.ubc.ca/courses/62922/files/13522483?wrap=1)
     - T03 Fields and Potentials [Document](https://canvas.ubc.ca/courses/62922/files/13472965?wrap=1)
 
 
