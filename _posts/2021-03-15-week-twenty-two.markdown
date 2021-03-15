@@ -14,7 +14,7 @@ categories: weekly reading
 
 ## Schedule
 
-![Week Twenty One Schedule](/assets/w21schedule.png)
+![Week Twenty Two Schedule](/assets/w22schedule.png)
 
 ## Upcoming Quizzes
 
