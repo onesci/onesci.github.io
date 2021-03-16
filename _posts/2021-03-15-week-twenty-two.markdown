@@ -34,6 +34,7 @@ Fifth Maths quiz Thursday - Applications of Integration
 
 
 - [Physics](https://canvas.ubc.ca/courses/62922) - <!--[Waves on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/) -->Open Stax 3 [6.1, and 6.2](https://openstax.org/books/university-physics-volume-3/pages/5-1-invariance-of-physical-laws)<!-- Vol. 1 Ch. 16, 18, Vol. 3 Ch. 3.1 and 3.2 -->
+    - Gauss' Law L43 [Slides](https://canvas.ubc.ca/courses/62922/files/13637508?wrap=1), [Worksheet](https://canvas.ubc.ca/courses/62922/files/13637507?wrap=1) and [Solutions](https://canvas.ubc.ca/courses/62922/files/13637505?wrap=1)
 
 
 
