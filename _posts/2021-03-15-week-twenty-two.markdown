@@ -30,7 +30,7 @@ Fifth Maths quiz Thursday - Applications of Integration
 
 	
 - [Mathematics](https://canvas.ubc.ca/courses/62921) - <!-- 7 on [Active Calculus](https://activecalculus.org/) and -->CLP 2.1, 2.4.3, and 2.4.5
-
+    - Tuesday - Applications of Integration [Slides](https://canvas.ubc.ca/courses/62921/files/13645388?wrap=1)
 
 
 - [Physics](https://canvas.ubc.ca/courses/62922) - <!--[Waves on WebWork](https://webwork.elearning.ubc.ca/webwork2/2020W1-2_SCIE_010_001/) -->Open Stax 3 [6.1, and 6.2](https://openstax.org/books/university-physics-volume-3/pages/5-1-invariance-of-physical-laws)<!-- Vol. 1 Ch. 16, 18, Vol. 3 Ch. 3.1 and 3.2 -->
