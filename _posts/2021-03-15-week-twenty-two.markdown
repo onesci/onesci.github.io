@@ -40,6 +40,10 @@ Fifth Maths quiz Thursday - Applications of Integration
 
 - [Biology](https://canvas.ubc.ca/courses/62806)
     - Enzymes [Page](https://canvas.ubc.ca/courses/62806/pages/enzymes?module_item_id=1883073) and [Slides](https://canvas.ubc.ca/courses/62806/files/8415170/download?wrap=1)
+    - Transport Proteins [Page](https://canvas.ubc.ca/courses/62806/pages/transport-proteins?module_item_id=1883074) and [Slides](https://canvas.ubc.ca/courses/62806/files/8415155/download?wrap=1)
+    - Metabolism (Review) [Slides](https://canvas.ubc.ca/courses/62806/files/8407146/download?wrap=1) and [Talk](https://canvas.ubc.ca/courses/62806/files/8407206/download)
+    - Glycolysis and Fermentation [Page](https://canvas.ubc.ca/courses/62806/pages/glycolysis-and-fermentation?module_item_id=1883076) and [Slides](https://canvas.ubc.ca/courses/62806/files/8412979/download?wrap=1)
+
 
 
 - [STL](https://canvas.ubc.ca/courses/62807a)
