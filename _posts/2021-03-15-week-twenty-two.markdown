@@ -27,6 +27,7 @@ Fifth Maths quiz Thursday - Applications of Integration
 ## Reading
 
 - [Chemistry](https://canvas.ubc.ca/courses/62920) - [VBT and MO Theory](https://canvas.ubc.ca/courses/62920/files/13173415?module_item_id=2970686)
+    - Acid-Base [Notes](https://canvas.ubc.ca/courses/62920/files/13578689/download?download_frd=1)
 
 	
 - [Mathematics](https://canvas.ubc.ca/courses/62921) - <!-- 7 on [Active Calculus](https://activecalculus.org/) and -->CLP 2.1, 2.4.3, and 2.4.5
