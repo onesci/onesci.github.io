@@ -23,7 +23,7 @@ Tenth Biology quiz Monday - Gene Regulation in Development
 <!-- Second Maths test Thursday - Techniques of Integration     -->
 Seventh Maths quiz Thursday - Sequences and Series / Applications of Integration (?)     
 <!-- Third Physics quiz Thursday/Friday - Quantum Mechanics and Electrostatics     -->
-<!-- Second Chemistry quiz Thursday/Friday - Intermolecular Forces and Quantum    -->
+Third Chemistry quiz Thursday/Friday - VBT and MO Theory   
 
 ## Reading
 
