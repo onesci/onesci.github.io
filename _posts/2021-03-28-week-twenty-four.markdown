@@ -30,7 +30,7 @@ Fourth Physics quiz Thursday/Friday - Electricity and Magnetism (Multiple Choice
 
 ## Reading
 
-- [Chemistry] - Acid-Base [Notes](https://canvas.ubc.ca/courses/62920/files/13578689/download?download_frd=1) 
+- [Chemistry](https://canvas.ubc.ca/courses/62920) - Acid-Base [Notes](https://canvas.ubc.ca/courses/62920/files/13578689/download?download_frd=1) 
     - Buffers [Worksheet](https://canvas.ubc.ca/courses/62920/files/13578755/download?download_frd=1) and [Answers](https://canvas.ubc.ca/courses/62920/modules/items/3038446)
     - Acid-Base [Problem Set](https://canvas.ubc.ca/courses/62920/files/13578788/download?download_frd=1) and [Answers](https://canvas.ubc.ca/courses/62920/modules/items/3011334)
 
