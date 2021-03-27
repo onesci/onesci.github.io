@@ -46,6 +46,7 @@ Third Chemistry quiz Thursday/Friday - VBT and MO Theory
     - Metabolism (Review) [Slides](https://canvas.ubc.ca/courses/62806/files/8407146/download?wrap=1) and [Talk](https://canvas.ubc.ca/courses/62806/files/8407206/download)
     - Glycolysis and Fermentation [Page](https://canvas.ubc.ca/courses/62806/pages/glycolysis-and-fermentation?module_item_id=1883076) and [Slides](https://canvas.ubc.ca/courses/62806/files/8412979/download?wrap=1)
     - Respiration [Page](https://canvas.ubc.ca/courses/62806/pages/respiration?module_item_id=1883077) and [Slides](https://canvas.ubc.ca/courses/62806/files/8415074/download?wrap=1)
+    - Chemiosmotic Production of ATP [Page](https://canvas.ubc.ca/courses/62806/modules/items/1883078) and [Slides](https://canvas.ubc.ca/courses/62806/files/8415174/download?verifier=9olzmujWdsqCwCY9B6NINuhLFIAwfqJKOSKRCFU1&wrap=1)
 
 
 
