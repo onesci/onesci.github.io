@@ -45,6 +45,10 @@ Fourth Physics quiz Thursday/Friday - Electricity and Magnetism (Multiple Choice
 
 
 - [Biology](https://canvas.ubc.ca/courses/62806)
+    - Evolution of Respiration [Page](https://canvas.ubc.ca/courses/62806/pages/evolution-of-respiration?module_item_id=1883079) and [Slides](https://canvas.ubc.ca/courses/62806/files/8413644/download?wrap=1)
+    - Photosynthesis - Light Reactions - Production of ATP and NADPH [Page](https://canvas.ubc.ca/courses/62806/pages/photosynthesis-light-reactions-production-of-atp-and-nadph?module_item_id=1883080) and [Slides](https://canvas.ubc.ca/courses/62806/files/8413890/download?wrap=1)
+    - Photosynthesis - Light Independent Reactions - Carbon Fixation [Page](https://canvas.ubc.ca/courses/62806/pages/photosynthesis-light-independent-reactions-carbon-fixation?module_item_id=1883081) and [Slides](https://canvas.ubc.ca/courses/62806/files/8414190/download?wrap=1)
+
 
 
 - [STL](https://canvas.ubc.ca/courses/62807a)
