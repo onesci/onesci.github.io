@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "We Did It"
-date:   2021-01-03 19:37:27 -0700
+date:   2021-01-02 19:37:27 -0700
 categories: weekly reading
 ---
 
